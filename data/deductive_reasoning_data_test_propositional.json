@@ -1,0 +1,3604 @@
+{
+    "propositional": [
+        {
+            "premise1": "If qoc is poor, then luv is shallow.",
+            "premise2": "qoc is poor.",
+            "conclusion": "luv is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If tiz is deep, then jug is smooth.",
+            "premise2": "tiz is deep.",
+            "conclusion": "jug is smooth.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If ful is shallow, then wug is soft.",
+            "premise2": "ful is shallow.",
+            "conclusion": "wug is soft.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If div is cowardly, then wap is clean.",
+            "premise2": "div is cowardly.",
+            "conclusion": "wap is clean.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If yey is wide, then tow is dark.",
+            "premise2": "yey is wide.",
+            "conclusion": "tow is dark.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wad is dirty, then qav is light.",
+            "premise2": "wad is dirty.",
+            "conclusion": "qav is light.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If naj is rough, then xek is cheerful.",
+            "premise2": "naj is rough.",
+            "conclusion": "xek is cheerful.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dan is shallow, then vof is deep.",
+            "premise2": "dan is shallow.",
+            "conclusion": "vof is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If fun is deep, then wey is cheerful.",
+            "premise2": "fun is deep.",
+            "conclusion": "wey is cheerful.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If duq is deep, then nuk is loud.",
+            "premise2": "duq is deep.",
+            "conclusion": "nuk is loud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If jec is warm, then yiv is cold.",
+            "premise2": "jec is warm.",
+            "conclusion": "yiv is cold.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If gec is narrow, then duq is light.",
+            "premise2": "gec is narrow.",
+            "conclusion": "duq is light.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If jur is humble, then xit is fresh.",
+            "premise2": "jur is humble.",
+            "conclusion": "xit is fresh.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dif is sharp, then tun is light.",
+            "premise2": "dif is sharp.",
+            "conclusion": "tun is light.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If bif is dirty, then kih is cowardly.",
+            "premise2": "bif is dirty.",
+            "conclusion": "kih is cowardly.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cag is warm, then kaz is weak.",
+            "premise2": "cag is warm.",
+            "conclusion": "kaz is weak.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If fez is stale, then fod is hard.",
+            "premise2": "fez is stale.",
+            "conclusion": "fod is hard.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cub is proud, then jef is dull.",
+            "premise2": "cub is proud.",
+            "conclusion": "jef is dull.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cay is wide, then ruf is warm.",
+            "premise2": "cay is wide.",
+            "conclusion": "ruf is warm.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If kam is dark, then poh is sad.",
+            "premise2": "kam is dark.",
+            "conclusion": "poh is sad.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cuf is fresh, then qel is proud.",
+            "premise2": "cuf is fresh.",
+            "conclusion": "qel is proud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If xej is dirty, then ceh is wide.",
+            "premise2": "xej is dirty.",
+            "conclusion": "ceh is wide.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If fut is brave, then hav is shallow.",
+            "premise2": "fut is brave.",
+            "conclusion": "hav is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If ziq is strong, then ley is sad.",
+            "premise2": "ziq is strong.",
+            "conclusion": "ley is sad.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dic is light, then wig is proud.",
+            "premise2": "dic is light.",
+            "conclusion": "wig is proud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If pum is shallow, then pug is rich.",
+            "premise2": "pum is shallow.",
+            "conclusion": "pug is rich.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If rab is quiet, then yen is light.",
+            "premise2": "rab is quiet.",
+            "conclusion": "yen is light.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If koq is poor, then xoc is brave.",
+            "premise2": "koq is poor.",
+            "conclusion": "xoc is brave.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cet is cheerful, then dih is humble.",
+            "premise2": "cet is cheerful.",
+            "conclusion": "dih is humble.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wub is shallow, then con is sad.",
+            "premise2": "wub is shallow.",
+            "conclusion": "con is sad.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If coj is strong, then wag is poor.",
+            "premise2": "coj is strong.",
+            "conclusion": "wag is poor.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If rib is soft, then jab is sharp.",
+            "premise2": "rib is soft.",
+            "conclusion": "jab is sharp.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If fuj is soft, then mih is proud.",
+            "premise2": "fuj is soft.",
+            "conclusion": "mih is proud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If qab is wide, then lof is smooth.",
+            "premise2": "qab is wide.",
+            "conclusion": "lof is smooth.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If zup is weak, then fel is bright.",
+            "premise2": "zup is weak.",
+            "conclusion": "fel is bright.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cel is bright, then wip is humble.",
+            "premise2": "cel is bright.",
+            "conclusion": "wip is humble.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If zor is dull, then puh is rich.",
+            "premise2": "zor is dull.",
+            "conclusion": "puh is rich.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If xib is dirty, then gel is stale.",
+            "premise2": "xib is dirty.",
+            "conclusion": "gel is stale.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dic is rough, then cih is deep.",
+            "premise2": "dic is rough.",
+            "conclusion": "cih is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If poy is proud, then gif is light.",
+            "premise2": "poy is proud.",
+            "conclusion": "gif is light.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cih is poor, then vam is dirty.",
+            "premise2": "cih is poor.",
+            "conclusion": "vam is dirty.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If mof is proud, then fuv is dirty.",
+            "premise2": "mof is proud.",
+            "conclusion": "fuv is dirty.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If nav is bright, then for is shallow.",
+            "premise2": "nav is bright.",
+            "conclusion": "for is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If neh is cold, then zuq is warm.",
+            "premise2": "neh is cold.",
+            "conclusion": "zuq is warm.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dek is soft, then cob is poor.",
+            "premise2": "dek is soft.",
+            "conclusion": "cob is poor.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wum is dull, then soz is cowardly.",
+            "premise2": "wum is dull.",
+            "conclusion": "soz is cowardly.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dik is cowardly, then luh is sharp.",
+            "premise2": "dik is cowardly.",
+            "conclusion": "luh is sharp.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If pad is sharp, then but is hard.",
+            "premise2": "pad is sharp.",
+            "conclusion": "but is hard.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If tol is rough, then jaj is soft.",
+            "premise2": "tol is rough.",
+            "conclusion": "jaj is soft.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If joq is soft, then pug is humble.",
+            "premise2": "joq is soft.",
+            "conclusion": "pug is humble.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If guq is humble, then zow is clean.",
+            "premise2": "guq is humble.",
+            "conclusion": "zow is clean.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If toj is strong, then wuk is dirty.",
+            "premise2": "toj is strong.",
+            "conclusion": "wuk is dirty.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If nic is rough, then vel is rich.",
+            "premise2": "nic is rough.",
+            "conclusion": "vel is rich.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If xiv is bright, then daw is warm.",
+            "premise2": "xiv is bright.",
+            "conclusion": "daw is warm.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If kec is dirty, then mat is quiet.",
+            "premise2": "kec is dirty.",
+            "conclusion": "mat is quiet.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If gop is bright, then vow is cold.",
+            "premise2": "gop is bright.",
+            "conclusion": "vow is cold.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If vud is brave, then rem is proud.",
+            "premise2": "vud is brave.",
+            "conclusion": "rem is proud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If quz is loud, then kab is shallow.",
+            "premise2": "quz is loud.",
+            "conclusion": "kab is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If vul is wide, then nav is shallow.",
+            "premise2": "vul is wide.",
+            "conclusion": "nav is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If roq is light, then ceg is deep.",
+            "premise2": "roq is light.",
+            "conclusion": "ceg is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If nac is humble, then tog is cold.",
+            "premise2": "nac is humble.",
+            "conclusion": "tog is cold.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If gir is rich, then cut is sad.",
+            "premise2": "gir is rich.",
+            "conclusion": "cut is sad.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If cav is smooth, then gac is clean.",
+            "premise2": "cav is smooth.",
+            "conclusion": "gac is clean.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If fup is hard, then jov is dark.",
+            "premise2": "fup is hard.",
+            "conclusion": "jov is dark.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If yon is smooth, then zam is rich.",
+            "premise2": "yon is smooth.",
+            "conclusion": "zam is rich.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If maw is cheerful, then jaq is stale.",
+            "premise2": "maw is cheerful.",
+            "conclusion": "jaq is stale.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If jop is bright, then zac is humble.",
+            "premise2": "jop is bright.",
+            "conclusion": "zac is humble.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If law is heavy, then xuj is cold.",
+            "premise2": "law is heavy.",
+            "conclusion": "xuj is cold.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If zuw is hard, then rum is rough.",
+            "premise2": "zuw is hard.",
+            "conclusion": "rum is rough.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If rur is warm, then dar is soft.",
+            "premise2": "rur is warm.",
+            "conclusion": "dar is soft.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If reb is weak, then sor is humble.",
+            "premise2": "reb is weak.",
+            "conclusion": "sor is humble.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If nid is fresh, then paf is weak.",
+            "premise2": "nid is fresh.",
+            "conclusion": "paf is weak.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If pih is warm, then bep is rough.",
+            "premise2": "pih is warm.",
+            "conclusion": "bep is rough.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If jaj is stale, then fam is weak.",
+            "premise2": "jaj is stale.",
+            "conclusion": "fam is weak.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If yeg is proud, then hof is fresh.",
+            "premise2": "yeg is proud.",
+            "conclusion": "hof is fresh.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If leb is proud, then jin is deep.",
+            "premise2": "leb is proud.",
+            "conclusion": "jin is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If mun is soft, then hud is shallow.",
+            "premise2": "mun is soft.",
+            "conclusion": "hud is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If hog is light, then gen is loud.",
+            "premise2": "hog is light.",
+            "conclusion": "gen is loud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If mir is poor, then ceb is warm.",
+            "premise2": "mir is poor.",
+            "conclusion": "ceb is warm.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If der is rough, then mur is cowardly.",
+            "premise2": "der is rough.",
+            "conclusion": "mur is cowardly.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If mid is dark, then kop is rich.",
+            "premise2": "mid is dark.",
+            "conclusion": "kop is rich.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If rar is stale, then noj is deep.",
+            "premise2": "rar is stale.",
+            "conclusion": "noj is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If tah is rough, then fif is cheerful.",
+            "premise2": "tah is rough.",
+            "conclusion": "fif is cheerful.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If qer is sad, then rek is dirty.",
+            "premise2": "qer is sad.",
+            "conclusion": "rek is dirty.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If vep is dull, then sav is deep.",
+            "premise2": "vep is dull.",
+            "conclusion": "sav is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If bot is hard, then bem is shallow.",
+            "premise2": "bot is hard.",
+            "conclusion": "bem is shallow.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wug is humble, then rod is heavy.",
+            "premise2": "wug is humble.",
+            "conclusion": "rod is heavy.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wol is narrow, then zaf is bright.",
+            "premise2": "wol is narrow.",
+            "conclusion": "zaf is bright.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If biq is cheerful, then vuq is soft.",
+            "premise2": "biq is cheerful.",
+            "conclusion": "vuq is soft.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If lim is bright, then jud is warm.",
+            "premise2": "lim is bright.",
+            "conclusion": "jud is warm.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If liy is light, then naw is quiet.",
+            "premise2": "liy is light.",
+            "conclusion": "naw is quiet.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If dom is dull, then mug is soft.",
+            "premise2": "dom is dull.",
+            "conclusion": "mug is soft.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If ruq is stale, then lit is smooth.",
+            "premise2": "ruq is stale.",
+            "conclusion": "lit is smooth.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If haf is sad, then qoz is smooth.",
+            "premise2": "haf is sad.",
+            "conclusion": "qoz is smooth.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If wip is dull, then zor is proud.",
+            "premise2": "wip is dull.",
+            "conclusion": "zor is proud.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If tun is shallow, then tat is rough.",
+            "premise2": "tun is shallow.",
+            "conclusion": "tat is rough.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If taj is poor, then biv is strong.",
+            "premise2": "taj is poor.",
+            "conclusion": "biv is strong.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If vad is bright, then qap is hard.",
+            "premise2": "vad is bright.",
+            "conclusion": "qap is hard.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If yal is rough, then zik is deep.",
+            "premise2": "yal is rough.",
+            "conclusion": "zik is deep.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If jar is quiet, then siq is dirty.",
+            "premise2": "jar is quiet.",
+            "conclusion": "siq is dirty.",
+            "trial_type": "modus_ponens_true"
+        },
+        {
+            "premise1": "If rog is clean, then sew is smooth.",
+            "premise2": "rog is clean.",
+            "conclusion": "sew is not smooth.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If jet is humble, then por is rich.",
+            "premise2": "jet is humble.",
+            "conclusion": "por is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If ket is rich, then juc is bright.",
+            "premise2": "ket is rich.",
+            "conclusion": "juc is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If kah is heavy, then pah is shallow.",
+            "premise2": "kah is heavy.",
+            "conclusion": "pah is not shallow.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If yaw is sad, then mir is dark.",
+            "premise2": "yaw is sad.",
+            "conclusion": "mir is not dark.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If zuy is humble, then rut is wide.",
+            "premise2": "zuy is humble.",
+            "conclusion": "rut is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If ten is dark, then lac is quiet.",
+            "premise2": "ten is dark.",
+            "conclusion": "lac is not quiet.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If pam is warm, then zag is cowardly.",
+            "premise2": "pam is warm.",
+            "conclusion": "zag is not cowardly.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If kuq is sharp, then wet is dirty.",
+            "premise2": "kuq is sharp.",
+            "conclusion": "wet is not dirty.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If yad is sad, then niy is clean.",
+            "premise2": "yad is sad.",
+            "conclusion": "niy is not clean.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If law is cold, then cep is dull.",
+            "premise2": "law is cold.",
+            "conclusion": "cep is not dull.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If vij is shallow, then jim is rich.",
+            "premise2": "vij is shallow.",
+            "conclusion": "jim is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If lop is warm, then kam is strong.",
+            "premise2": "lop is warm.",
+            "conclusion": "kam is not strong.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If sot is sad, then cov is cheerful.",
+            "premise2": "sot is sad.",
+            "conclusion": "cov is not cheerful.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If fad is brave, then kag is dull.",
+            "premise2": "fad is brave.",
+            "conclusion": "kag is not dull.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If sud is bright, then ruq is loud.",
+            "premise2": "sud is bright.",
+            "conclusion": "ruq is not loud.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If kok is clean, then gip is cowardly.",
+            "premise2": "kok is clean.",
+            "conclusion": "gip is not cowardly.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If fum is deep, then yuj is cheerful.",
+            "premise2": "fum is deep.",
+            "conclusion": "yuj is not cheerful.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If vut is heavy, then wil is weak.",
+            "premise2": "vut is heavy.",
+            "conclusion": "wil is not weak.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If fuf is dull, then hok is deep.",
+            "premise2": "fuf is dull.",
+            "conclusion": "hok is not deep.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If buw is rich, then raf is narrow.",
+            "premise2": "buw is rich.",
+            "conclusion": "raf is not narrow.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If fup is heavy, then kum is light.",
+            "premise2": "fup is heavy.",
+            "conclusion": "kum is not light.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If dum is proud, then nep is deep.",
+            "premise2": "dum is proud.",
+            "conclusion": "nep is not deep.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If xeg is clean, then buw is stale.",
+            "premise2": "xeg is clean.",
+            "conclusion": "buw is not stale.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If xag is warm, then qeh is smooth.",
+            "premise2": "xag is warm.",
+            "conclusion": "qeh is not smooth.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If joz is heavy, then jeg is rich.",
+            "premise2": "joz is heavy.",
+            "conclusion": "jeg is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If puz is weak, then gof is fresh.",
+            "premise2": "puz is weak.",
+            "conclusion": "gof is not fresh.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If tom is quiet, then bey is humble.",
+            "premise2": "tom is quiet.",
+            "conclusion": "bey is not humble.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If tun is poor, then dig is sharp.",
+            "premise2": "tun is poor.",
+            "conclusion": "dig is not sharp.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If niq is clean, then cec is light.",
+            "premise2": "niq is clean.",
+            "conclusion": "cec is not light.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If nok is shallow, then lih is weak.",
+            "premise2": "nok is shallow.",
+            "conclusion": "lih is not weak.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If puy is weak, then cep is humble.",
+            "premise2": "puy is weak.",
+            "conclusion": "cep is not humble.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If zab is heavy, then kab is clean.",
+            "premise2": "zab is heavy.",
+            "conclusion": "kab is not clean.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If dap is cheerful, then rej is cowardly.",
+            "premise2": "dap is cheerful.",
+            "conclusion": "rej is not cowardly.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If gim is rich, then hir is strong.",
+            "premise2": "gim is rich.",
+            "conclusion": "hir is not strong.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If riy is hard, then woc is brave.",
+            "premise2": "riy is hard.",
+            "conclusion": "woc is not brave.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If qeb is rough, then vew is cold.",
+            "premise2": "qeb is rough.",
+            "conclusion": "vew is not cold.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If neh is quiet, then kah is cold.",
+            "premise2": "neh is quiet.",
+            "conclusion": "kah is not cold.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If ruf is bright, then yog is wide.",
+            "premise2": "ruf is bright.",
+            "conclusion": "yog is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If nob is cold, then zav is fresh.",
+            "premise2": "nob is cold.",
+            "conclusion": "zav is not fresh.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If met is quiet, then kup is poor.",
+            "premise2": "met is quiet.",
+            "conclusion": "kup is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If niv is deep, then qam is proud.",
+            "premise2": "niv is deep.",
+            "conclusion": "qam is not proud.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If cuz is sad, then wic is poor.",
+            "premise2": "cuz is sad.",
+            "conclusion": "wic is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If fop is narrow, then tab is bright.",
+            "premise2": "fop is narrow.",
+            "conclusion": "tab is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If lum is dirty, then juw is rich.",
+            "premise2": "lum is dirty.",
+            "conclusion": "juw is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If lef is fresh, then xik is quiet.",
+            "premise2": "lef is fresh.",
+            "conclusion": "xik is not quiet.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If gib is rough, then xaz is fresh.",
+            "premise2": "gib is rough.",
+            "conclusion": "xaz is not fresh.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If pim is cowardly, then noq is quiet.",
+            "premise2": "pim is cowardly.",
+            "conclusion": "noq is not quiet.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If bez is dirty, then cog is strong.",
+            "premise2": "bez is dirty.",
+            "conclusion": "cog is not strong.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If tij is narrow, then dur is loud.",
+            "premise2": "tij is narrow.",
+            "conclusion": "dur is not loud.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If ved is hard, then zez is rich.",
+            "premise2": "ved is hard.",
+            "conclusion": "zez is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If rim is narrow, then mar is wide.",
+            "premise2": "rim is narrow.",
+            "conclusion": "mar is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If wuy is cowardly, then nij is rough.",
+            "premise2": "wuy is cowardly.",
+            "conclusion": "nij is not rough.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If bug is sad, then xop is bright.",
+            "premise2": "bug is sad.",
+            "conclusion": "xop is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If wok is quiet, then biw is sharp.",
+            "premise2": "wok is quiet.",
+            "conclusion": "biw is not sharp.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If ziv is light, then bez is narrow.",
+            "premise2": "ziv is light.",
+            "conclusion": "bez is not narrow.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If hod is cheerful, then xok is soft.",
+            "premise2": "hod is cheerful.",
+            "conclusion": "xok is not soft.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If jet is narrow, then doq is wide.",
+            "premise2": "jet is narrow.",
+            "conclusion": "doq is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If rin is humble, then dib is strong.",
+            "premise2": "rin is humble.",
+            "conclusion": "dib is not strong.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If leq is bright, then qoq is sad.",
+            "premise2": "leq is bright.",
+            "conclusion": "qoq is not sad.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If pug is weak, then xin is poor.",
+            "premise2": "pug is weak.",
+            "conclusion": "xin is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If tug is fresh, then caz is stale.",
+            "premise2": "tug is fresh.",
+            "conclusion": "caz is not stale.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If baj is bright, then fuv is clean.",
+            "premise2": "baj is bright.",
+            "conclusion": "fuv is not clean.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If biq is rough, then gir is poor.",
+            "premise2": "biq is rough.",
+            "conclusion": "gir is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If muc is proud, then heg is bright.",
+            "premise2": "muc is proud.",
+            "conclusion": "heg is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If vay is fresh, then zoh is cold.",
+            "premise2": "vay is fresh.",
+            "conclusion": "zoh is not cold.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If duh is clean, then lel is wide.",
+            "premise2": "duh is clean.",
+            "conclusion": "lel is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If lut is rough, then goy is bright.",
+            "premise2": "lut is rough.",
+            "conclusion": "goy is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If zuh is clean, then zuc is warm.",
+            "premise2": "zuh is clean.",
+            "conclusion": "zuc is not warm.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If jok is dirty, then suh is smooth.",
+            "premise2": "jok is dirty.",
+            "conclusion": "suh is not smooth.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If tuc is dirty, then waw is strong.",
+            "premise2": "tuc is dirty.",
+            "conclusion": "waw is not strong.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If dar is cheerful, then yiz is dirty.",
+            "premise2": "dar is cheerful.",
+            "conclusion": "yiz is not dirty.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If qup is clean, then zag is weak.",
+            "premise2": "qup is clean.",
+            "conclusion": "zag is not weak.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If heb is bright, then nuj is brave.",
+            "premise2": "heb is bright.",
+            "conclusion": "nuj is not brave.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If zam is fresh, then qah is warm.",
+            "premise2": "zam is fresh.",
+            "conclusion": "qah is not warm.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If rat is shallow, then pul is sad.",
+            "premise2": "rat is shallow.",
+            "conclusion": "pul is not sad.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If reb is rich, then sij is warm.",
+            "premise2": "reb is rich.",
+            "conclusion": "sij is not warm.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If paf is loud, then bib is poor.",
+            "premise2": "paf is loud.",
+            "conclusion": "bib is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If yan is proud, then suv is cold.",
+            "premise2": "yan is proud.",
+            "conclusion": "suv is not cold.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If cuq is soft, then law is cold.",
+            "premise2": "cuq is soft.",
+            "conclusion": "law is not cold.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If nif is deep, then tag is bright.",
+            "premise2": "nif is deep.",
+            "conclusion": "tag is not bright.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If bon is quiet, then hug is loud.",
+            "premise2": "bon is quiet.",
+            "conclusion": "hug is not loud.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If hen is bright, then boq is heavy.",
+            "premise2": "hen is bright.",
+            "conclusion": "boq is not heavy.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If kin is heavy, then hep is quiet.",
+            "premise2": "kin is heavy.",
+            "conclusion": "hep is not quiet.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If rop is strong, then xeq is quiet.",
+            "premise2": "rop is strong.",
+            "conclusion": "xeq is not quiet.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If xaq is weak, then heb is clean.",
+            "premise2": "xaq is weak.",
+            "conclusion": "heb is not clean.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If vac is rough, then caz is rich.",
+            "premise2": "vac is rough.",
+            "conclusion": "caz is not rich.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If bor is smooth, then xik is stale.",
+            "premise2": "bor is smooth.",
+            "conclusion": "xik is not stale.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If vey is brave, then qag is fresh.",
+            "premise2": "vey is brave.",
+            "conclusion": "qag is not fresh.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If for is heavy, then koq is poor.",
+            "premise2": "for is heavy.",
+            "conclusion": "koq is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If koq is narrow, then xal is stale.",
+            "premise2": "koq is narrow.",
+            "conclusion": "xal is not stale.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If wav is clean, then kic is poor.",
+            "premise2": "wav is clean.",
+            "conclusion": "kic is not poor.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If zay is weak, then ceq is brave.",
+            "premise2": "zay is weak.",
+            "conclusion": "ceq is not brave.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If qof is quiet, then sut is dirty.",
+            "premise2": "qof is quiet.",
+            "conclusion": "sut is not dirty.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If toh is hard, then xiw is stale.",
+            "premise2": "toh is hard.",
+            "conclusion": "xiw is not stale.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If pep is sharp, then tuc is wide.",
+            "premise2": "pep is sharp.",
+            "conclusion": "tuc is not wide.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If hun is deep, then moc is cowardly.",
+            "premise2": "hun is deep.",
+            "conclusion": "moc is not cowardly.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If col is smooth, then qep is hard.",
+            "premise2": "col is smooth.",
+            "conclusion": "qep is not hard.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If yih is poor, then boz is sad.",
+            "premise2": "yih is poor.",
+            "conclusion": "boz is not sad.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If dar is quiet, then wug is rough.",
+            "premise2": "dar is quiet.",
+            "conclusion": "wug is not rough.",
+            "trial_type": "modus_ponens_false"
+        },
+        {
+            "premise1": "If jek is humble, then bug is fresh.",
+            "premise2": "bug is not fresh.",
+            "conclusion": "jek is not humble.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If yin is quiet, then fol is dirty.",
+            "premise2": "fol is not dirty.",
+            "conclusion": "yin is not quiet.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If zun is shallow, then weq is light.",
+            "premise2": "weq is not light.",
+            "conclusion": "zun is not shallow.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qiq is brave, then tum is soft.",
+            "premise2": "tum is not soft.",
+            "conclusion": "qiq is not brave.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If geb is soft, then xuw is dull.",
+            "premise2": "xuw is not dull.",
+            "conclusion": "geb is not soft.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If yuw is rich, then fih is cold.",
+            "premise2": "fih is not cold.",
+            "conclusion": "yuw is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If caf is soft, then pon is cheerful.",
+            "premise2": "pon is not cheerful.",
+            "conclusion": "caf is not soft.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If pul is warm, then teh is quiet.",
+            "premise2": "teh is not quiet.",
+            "conclusion": "pul is not warm.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If bew is cheerful, then ruj is poor.",
+            "premise2": "ruj is not poor.",
+            "conclusion": "bew is not cheerful.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If laz is cheerful, then goh is dark.",
+            "premise2": "goh is not dark.",
+            "conclusion": "laz is not cheerful.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qaz is sad, then qik is bright.",
+            "premise2": "qik is not bright.",
+            "conclusion": "qaz is not sad.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If tuf is poor, then luv is proud.",
+            "premise2": "luv is not proud.",
+            "conclusion": "tuf is not poor.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If lek is shallow, then wih is rough.",
+            "premise2": "wih is not rough.",
+            "conclusion": "lek is not shallow.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sad is brave, then toz is cold.",
+            "premise2": "toz is not cold.",
+            "conclusion": "sad is not brave.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If lok is stale, then fig is soft.",
+            "premise2": "fig is not soft.",
+            "conclusion": "lok is not stale.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If gag is strong, then xuj is bright.",
+            "premise2": "xuj is not bright.",
+            "conclusion": "gag is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If quv is fresh, then foy is dirty.",
+            "premise2": "foy is not dirty.",
+            "conclusion": "quv is not fresh.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If fak is narrow, then kom is heavy.",
+            "premise2": "kom is not heavy.",
+            "conclusion": "fak is not narrow.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If bop is warm, then vid is shallow.",
+            "premise2": "vid is not shallow.",
+            "conclusion": "bop is not warm.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If xok is heavy, then pog is deep.",
+            "premise2": "pog is not deep.",
+            "conclusion": "xok is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If jop is hard, then mog is poor.",
+            "premise2": "mog is not poor.",
+            "conclusion": "jop is not hard.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If puv is cowardly, then kip is narrow.",
+            "premise2": "kip is not narrow.",
+            "conclusion": "puv is not cowardly.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If pom is hard, then fom is cheerful.",
+            "premise2": "fom is not cheerful.",
+            "conclusion": "pom is not hard.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If gik is heavy, then hiv is hard.",
+            "premise2": "hiv is not hard.",
+            "conclusion": "gik is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qot is heavy, then voz is poor.",
+            "premise2": "voz is not poor.",
+            "conclusion": "qot is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If viv is strong, then kiw is cold.",
+            "premise2": "kiw is not cold.",
+            "conclusion": "viv is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If tiq is bright, then koc is brave.",
+            "premise2": "koc is not brave.",
+            "conclusion": "tiq is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If dij is loud, then nef is stale.",
+            "premise2": "nef is not stale.",
+            "conclusion": "dij is not loud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If bec is strong, then boy is smooth.",
+            "premise2": "boy is not smooth.",
+            "conclusion": "bec is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If fuj is strong, then doj is brave.",
+            "premise2": "doj is not brave.",
+            "conclusion": "fuj is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If duh is rich, then ker is proud.",
+            "premise2": "ker is not proud.",
+            "conclusion": "duh is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If boj is weak, then qal is fresh.",
+            "premise2": "qal is not fresh.",
+            "conclusion": "boj is not weak.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If pit is cold, then zew is wide.",
+            "premise2": "zew is not wide.",
+            "conclusion": "pit is not cold.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If fal is rich, then beg is dull.",
+            "premise2": "beg is not dull.",
+            "conclusion": "fal is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If xij is hard, then ruw is soft.",
+            "premise2": "ruw is not soft.",
+            "conclusion": "xij is not hard.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If taw is sad, then soh is dirty.",
+            "premise2": "soh is not dirty.",
+            "conclusion": "taw is not sad.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If gol is dirty, then qaz is heavy.",
+            "premise2": "qaz is not heavy.",
+            "conclusion": "gol is not dirty.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sep is cheerful, then tob is strong.",
+            "premise2": "tob is not strong.",
+            "conclusion": "sep is not cheerful.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If wot is wide, then kok is proud.",
+            "premise2": "kok is not proud.",
+            "conclusion": "wot is not wide.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If tek is humble, then sip is rough.",
+            "premise2": "sip is not rough.",
+            "conclusion": "tek is not humble.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If vaj is dark, then muf is rough.",
+            "premise2": "muf is not rough.",
+            "conclusion": "vaj is not dark.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If nan is rich, then yet is sharp.",
+            "premise2": "yet is not sharp.",
+            "conclusion": "nan is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If roj is dirty, then hoc is sharp.",
+            "premise2": "hoc is not sharp.",
+            "conclusion": "roj is not dirty.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If new is cowardly, then wuz is rough.",
+            "premise2": "wuz is not rough.",
+            "conclusion": "new is not cowardly.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If zuv is bright, then xet is light.",
+            "premise2": "xet is not light.",
+            "conclusion": "zuv is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If tun is bright, then web is dark.",
+            "premise2": "web is not dark.",
+            "conclusion": "tun is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If get is cowardly, then yef is deep.",
+            "premise2": "yef is not deep.",
+            "conclusion": "get is not cowardly.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If noj is fresh, then hiy is cheerful.",
+            "premise2": "hiy is not cheerful.",
+            "conclusion": "noj is not fresh.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qon is heavy, then sag is hard.",
+            "premise2": "sag is not hard.",
+            "conclusion": "qon is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If got is bright, then wep is weak.",
+            "premise2": "wep is not weak.",
+            "conclusion": "got is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qed is brave, then ruz is dull.",
+            "premise2": "ruz is not dull.",
+            "conclusion": "qed is not brave.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If zag is rich, then vom is warm.",
+            "premise2": "vom is not warm.",
+            "conclusion": "zag is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If duv is stale, then ber is shallow.",
+            "premise2": "ber is not shallow.",
+            "conclusion": "duv is not stale.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If dak is stale, then yaz is rough.",
+            "premise2": "yaz is not rough.",
+            "conclusion": "dak is not stale.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sif is heavy, then xol is rich.",
+            "premise2": "xol is not rich.",
+            "conclusion": "sif is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qun is cold, then kul is bright.",
+            "premise2": "kul is not bright.",
+            "conclusion": "qun is not cold.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If giz is proud, then xod is cowardly.",
+            "premise2": "xod is not cowardly.",
+            "conclusion": "giz is not proud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If nob is rough, then fog is weak.",
+            "premise2": "fog is not weak.",
+            "conclusion": "nob is not rough.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If fok is rich, then cil is hard.",
+            "premise2": "cil is not hard.",
+            "conclusion": "fok is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If pip is dark, then yey is dirty.",
+            "premise2": "yey is not dirty.",
+            "conclusion": "pip is not dark.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If vub is wide, then hob is dirty.",
+            "premise2": "hob is not dirty.",
+            "conclusion": "vub is not wide.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If gif is warm, then yur is wide.",
+            "premise2": "yur is not wide.",
+            "conclusion": "gif is not warm.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If xaw is humble, then dug is bright.",
+            "premise2": "dug is not bright.",
+            "conclusion": "xaw is not humble.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If vep is loud, then fuj is heavy.",
+            "premise2": "fuj is not heavy.",
+            "conclusion": "vep is not loud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qet is fresh, then pel is sharp.",
+            "premise2": "pel is not sharp.",
+            "conclusion": "qet is not fresh.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If jon is strong, then giy is cold.",
+            "premise2": "giy is not cold.",
+            "conclusion": "jon is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If nin is deep, then cab is hard.",
+            "premise2": "cab is not hard.",
+            "conclusion": "nin is not deep.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If hij is cheerful, then vup is cold.",
+            "premise2": "vup is not cold.",
+            "conclusion": "hij is not cheerful.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If ruy is sad, then rad is clean.",
+            "premise2": "rad is not clean.",
+            "conclusion": "ruy is not sad.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If hik is bright, then zom is weak.",
+            "premise2": "zom is not weak.",
+            "conclusion": "hik is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If bid is deep, then niy is dark.",
+            "premise2": "niy is not dark.",
+            "conclusion": "bid is not deep.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If kug is rich, then luc is brave.",
+            "premise2": "luc is not brave.",
+            "conclusion": "kug is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If luk is humble, then liy is cheerful.",
+            "premise2": "liy is not cheerful.",
+            "conclusion": "luk is not humble.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If fop is heavy, then huc is proud.",
+            "premise2": "huc is not proud.",
+            "conclusion": "fop is not heavy.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If qak is loud, then dif is smooth.",
+            "premise2": "dif is not smooth.",
+            "conclusion": "qak is not loud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sap is light, then vof is humble.",
+            "premise2": "vof is not humble.",
+            "conclusion": "sap is not light.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If miq is quiet, then roc is fresh.",
+            "premise2": "roc is not fresh.",
+            "conclusion": "miq is not quiet.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If jeg is loud, then kig is wide.",
+            "premise2": "kig is not wide.",
+            "conclusion": "jeg is not loud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If wah is light, then koh is smooth.",
+            "premise2": "koh is not smooth.",
+            "conclusion": "wah is not light.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If xek is sad, then vib is sharp.",
+            "premise2": "vib is not sharp.",
+            "conclusion": "xek is not sad.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If coh is dull, then quq is rich.",
+            "premise2": "quq is not rich.",
+            "conclusion": "coh is not dull.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If wuv is strong, then fed is cold.",
+            "premise2": "fed is not cold.",
+            "conclusion": "wuv is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If beq is fresh, then sir is poor.",
+            "premise2": "sir is not poor.",
+            "conclusion": "beq is not fresh.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If lah is bright, then xej is dark.",
+            "premise2": "xej is not dark.",
+            "conclusion": "lah is not bright.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If vat is deep, then kog is strong.",
+            "premise2": "kog is not strong.",
+            "conclusion": "vat is not deep.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If yep is wide, then pim is smooth.",
+            "premise2": "pim is not smooth.",
+            "conclusion": "yep is not wide.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If boj is proud, then yon is shallow.",
+            "premise2": "yon is not shallow.",
+            "conclusion": "boj is not proud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sev is rich, then mip is poor.",
+            "premise2": "mip is not poor.",
+            "conclusion": "sev is not rich.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If xow is sharp, then muk is cowardly.",
+            "premise2": "muk is not cowardly.",
+            "conclusion": "xow is not sharp.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If jiw is proud, then hug is dirty.",
+            "premise2": "hug is not dirty.",
+            "conclusion": "jiw is not proud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If lom is sharp, then suc is wide.",
+            "premise2": "suc is not wide.",
+            "conclusion": "lom is not sharp.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If sab is wide, then juf is strong.",
+            "premise2": "juf is not strong.",
+            "conclusion": "sab is not wide.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If jeh is strong, then pul is weak.",
+            "premise2": "pul is not weak.",
+            "conclusion": "jeh is not strong.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If buh is humble, then meq is stale.",
+            "premise2": "meq is not stale.",
+            "conclusion": "buh is not humble.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If paz is loud, then rab is strong.",
+            "premise2": "rab is not strong.",
+            "conclusion": "paz is not loud.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If yul is sharp, then peq is clean.",
+            "premise2": "peq is not clean.",
+            "conclusion": "yul is not sharp.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If hev is brave, then guz is heavy.",
+            "premise2": "guz is not heavy.",
+            "conclusion": "hev is not brave.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If bar is cold, then yag is brave.",
+            "premise2": "yag is not brave.",
+            "conclusion": "bar is not cold.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If mij is clean, then cig is narrow.",
+            "premise2": "cig is not narrow.",
+            "conclusion": "mij is not clean.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If ton is quiet, then lat is soft.",
+            "premise2": "lat is not soft.",
+            "conclusion": "ton is not quiet.",
+            "trial_type": "modus_tollens_true"
+        },
+        {
+            "premise1": "If viy is brave, then qut is quiet.",
+            "premise2": "qut is not quiet.",
+            "conclusion": "viy is brave.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If yog is loud, then fuf is proud.",
+            "premise2": "fuf is not proud.",
+            "conclusion": "yog is loud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If mar is fresh, then lif is warm.",
+            "premise2": "lif is not warm.",
+            "conclusion": "mar is fresh.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If bab is rich, then gar is proud.",
+            "premise2": "gar is not proud.",
+            "conclusion": "bab is rich.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If big is heavy, then doz is dark.",
+            "premise2": "doz is not dark.",
+            "conclusion": "big is heavy.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If job is smooth, then cuq is shallow.",
+            "premise2": "cuq is not shallow.",
+            "conclusion": "job is smooth.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If roy is rough, then coy is smooth.",
+            "premise2": "coy is not smooth.",
+            "conclusion": "roy is rough.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zez is proud, then haz is deep.",
+            "premise2": "haz is not deep.",
+            "conclusion": "zez is proud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If lij is warm, then qac is strong.",
+            "premise2": "qac is not strong.",
+            "conclusion": "lij is warm.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zig is hard, then gug is dirty.",
+            "premise2": "gug is not dirty.",
+            "conclusion": "zig is hard.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If big is cold, then nud is stale.",
+            "premise2": "nud is not stale.",
+            "conclusion": "big is cold.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jit is cold, then nov is clean.",
+            "premise2": "nov is not clean.",
+            "conclusion": "jit is cold.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If soq is cowardly, then woy is warm.",
+            "premise2": "woy is not warm.",
+            "conclusion": "soq is cowardly.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If keq is warm, then vig is rough.",
+            "premise2": "vig is not rough.",
+            "conclusion": "keq is warm.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If gaq is warm, then zuf is narrow.",
+            "premise2": "zuf is not narrow.",
+            "conclusion": "gaq is warm.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xip is clean, then toz is sad.",
+            "premise2": "toz is not sad.",
+            "conclusion": "xip is clean.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If vik is stale, then vaq is dirty.",
+            "premise2": "vaq is not dirty.",
+            "conclusion": "vik is stale.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If vak is hard, then xav is stale.",
+            "premise2": "xav is not stale.",
+            "conclusion": "vak is hard.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If ruk is hard, then waw is bright.",
+            "premise2": "waw is not bright.",
+            "conclusion": "ruk is hard.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xic is narrow, then pen is humble.",
+            "premise2": "pen is not humble.",
+            "conclusion": "xic is narrow.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If tob is fresh, then zev is quiet.",
+            "premise2": "zev is not quiet.",
+            "conclusion": "tob is fresh.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cow is proud, then hom is dull.",
+            "premise2": "hom is not dull.",
+            "conclusion": "cow is proud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If boh is clean, then yon is cowardly.",
+            "premise2": "yon is not cowardly.",
+            "conclusion": "boh is clean.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xew is stale, then rok is rich.",
+            "premise2": "rok is not rich.",
+            "conclusion": "xew is stale.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If mej is stale, then ley is sad.",
+            "premise2": "ley is not sad.",
+            "conclusion": "mej is stale.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If kun is light, then yen is rough.",
+            "premise2": "yen is not rough.",
+            "conclusion": "kun is light.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If luh is cheerful, then wuf is proud.",
+            "premise2": "wuf is not proud.",
+            "conclusion": "luh is cheerful.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jep is humble, then yed is dull.",
+            "premise2": "yed is not dull.",
+            "conclusion": "jep is humble.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If mol is brave, then vep is clean.",
+            "premise2": "vep is not clean.",
+            "conclusion": "mol is brave.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If baj is sad, then juh is cold.",
+            "premise2": "juh is not cold.",
+            "conclusion": "baj is sad.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If lum is rich, then ton is dark.",
+            "premise2": "ton is not dark.",
+            "conclusion": "lum is rich.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If fan is cheerful, then hiy is shallow.",
+            "premise2": "hiy is not shallow.",
+            "conclusion": "fan is cheerful.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If wov is cold, then ped is weak.",
+            "premise2": "ped is not weak.",
+            "conclusion": "wov is cold.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xun is light, then yaz is weak.",
+            "premise2": "yaz is not weak.",
+            "conclusion": "xun is light.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cam is smooth, then duq is sharp.",
+            "premise2": "duq is not sharp.",
+            "conclusion": "cam is smooth.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If lih is smooth, then huk is heavy.",
+            "premise2": "huk is not heavy.",
+            "conclusion": "lih is smooth.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If lom is dull, then gul is cold.",
+            "premise2": "gul is not cold.",
+            "conclusion": "lom is dull.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If goh is fresh, then jub is proud.",
+            "premise2": "jub is not proud.",
+            "conclusion": "goh is fresh.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If gid is strong, then yik is rough.",
+            "premise2": "yik is not rough.",
+            "conclusion": "gid is strong.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jub is humble, then reg is bright.",
+            "premise2": "reg is not bright.",
+            "conclusion": "jub is humble.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If vik is cheerful, then hon is heavy.",
+            "premise2": "hon is not heavy.",
+            "conclusion": "vik is cheerful.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zij is narrow, then fiv is fresh.",
+            "premise2": "fiv is not fresh.",
+            "conclusion": "zij is narrow.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If wum is poor, then jiy is warm.",
+            "premise2": "jiy is not warm.",
+            "conclusion": "wum is poor.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If hof is smooth, then xaw is sad.",
+            "premise2": "xaw is not sad.",
+            "conclusion": "hof is smooth.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If gol is warm, then weh is wide.",
+            "premise2": "weh is not wide.",
+            "conclusion": "gol is warm.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If siq is rich, then vap is smooth.",
+            "premise2": "vap is not smooth.",
+            "conclusion": "siq is rich.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If wug is cheerful, then zam is brave.",
+            "premise2": "zam is not brave.",
+            "conclusion": "wug is cheerful.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If joj is poor, then qaf is hard.",
+            "premise2": "qaf is not hard.",
+            "conclusion": "joj is poor.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If voh is light, then cek is soft.",
+            "premise2": "cek is not soft.",
+            "conclusion": "voh is light.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If yor is sharp, then duj is dull.",
+            "premise2": "duj is not dull.",
+            "conclusion": "yor is sharp.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If taj is sharp, then fug is cowardly.",
+            "premise2": "fug is not cowardly.",
+            "conclusion": "taj is sharp.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If yol is fresh, then tub is dull.",
+            "premise2": "tub is not dull.",
+            "conclusion": "yol is fresh.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zaj is dull, then sew is strong.",
+            "premise2": "sew is not strong.",
+            "conclusion": "zaj is dull.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If get is deep, then tal is poor.",
+            "premise2": "tal is not poor.",
+            "conclusion": "get is deep.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If nid is stale, then yav is cold.",
+            "premise2": "yav is not cold.",
+            "conclusion": "nid is stale.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If ker is deep, then kav is rough.",
+            "premise2": "kav is not rough.",
+            "conclusion": "ker is deep.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If vig is clean, then fun is warm.",
+            "premise2": "fun is not warm.",
+            "conclusion": "vig is clean.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If pej is rich, then mur is poor.",
+            "premise2": "mur is not poor.",
+            "conclusion": "pej is rich.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cet is sharp, then dig is humble.",
+            "premise2": "dig is not humble.",
+            "conclusion": "cet is sharp.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If pez is wide, then gur is dull.",
+            "premise2": "gur is not dull.",
+            "conclusion": "pez is wide.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If feg is loud, then sur is bright.",
+            "premise2": "sur is not bright.",
+            "conclusion": "feg is loud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If moz is soft, then dif is humble.",
+            "premise2": "dif is not humble.",
+            "conclusion": "moz is soft.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If kuc is sad, then bud is wide.",
+            "premise2": "bud is not wide.",
+            "conclusion": "kuc is sad.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xiy is hard, then qek is quiet.",
+            "premise2": "qek is not quiet.",
+            "conclusion": "xiy is hard.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If teb is rough, then keg is loud.",
+            "premise2": "keg is not loud.",
+            "conclusion": "teb is rough.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If dal is wide, then fit is brave.",
+            "premise2": "fit is not brave.",
+            "conclusion": "dal is wide.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cag is dirty, then sap is wide.",
+            "premise2": "sap is not wide.",
+            "conclusion": "cag is dirty.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zoq is dull, then bik is cold.",
+            "premise2": "bik is not cold.",
+            "conclusion": "zoq is dull.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xek is clean, then vet is strong.",
+            "premise2": "vet is not strong.",
+            "conclusion": "xek is clean.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If loz is dirty, then vug is rich.",
+            "premise2": "vug is not rich.",
+            "conclusion": "loz is dirty.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jif is wide, then sik is shallow.",
+            "premise2": "sik is not shallow.",
+            "conclusion": "jif is wide.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If dig is cheerful, then saq is dark.",
+            "premise2": "saq is not dark.",
+            "conclusion": "dig is cheerful.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If ziw is sharp, then yot is quiet.",
+            "premise2": "yot is not quiet.",
+            "conclusion": "ziw is sharp.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If bif is humble, then qij is proud.",
+            "premise2": "qij is not proud.",
+            "conclusion": "bif is humble.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If luq is narrow, then guv is loud.",
+            "premise2": "guv is not loud.",
+            "conclusion": "luq is narrow.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If ben is cowardly, then lab is shallow.",
+            "premise2": "lab is not shallow.",
+            "conclusion": "ben is cowardly.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If nuj is hard, then nog is light.",
+            "premise2": "nog is not light.",
+            "conclusion": "nuj is hard.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If pot is cowardly, then hir is brave.",
+            "premise2": "hir is not brave.",
+            "conclusion": "pot is cowardly.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If puf is smooth, then dut is soft.",
+            "premise2": "dut is not soft.",
+            "conclusion": "puf is smooth.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If buq is poor, then zok is soft.",
+            "premise2": "zok is not soft.",
+            "conclusion": "buq is poor.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If ram is narrow, then yem is hard.",
+            "premise2": "yem is not hard.",
+            "conclusion": "ram is narrow.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If wib is dirty, then gad is cheerful.",
+            "premise2": "gad is not cheerful.",
+            "conclusion": "wib is dirty.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jep is quiet, then xol is cheerful.",
+            "premise2": "xol is not cheerful.",
+            "conclusion": "jep is quiet.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If qaf is dull, then ban is shallow.",
+            "premise2": "ban is not shallow.",
+            "conclusion": "qaf is dull.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If waw is deep, then maf is dark.",
+            "premise2": "maf is not dark.",
+            "conclusion": "waw is deep.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If kah is sad, then seh is wide.",
+            "premise2": "seh is not wide.",
+            "conclusion": "kah is sad.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If hoz is weak, then buq is hard.",
+            "premise2": "buq is not hard.",
+            "conclusion": "hoz is weak.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If fid is wide, then zoj is rich.",
+            "premise2": "zoj is not rich.",
+            "conclusion": "fid is wide.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If kow is cowardly, then wih is strong.",
+            "premise2": "wih is not strong.",
+            "conclusion": "kow is cowardly.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xok is clean, then miw is proud.",
+            "premise2": "miw is not proud.",
+            "conclusion": "xok is clean.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If zol is loud, then pih is heavy.",
+            "premise2": "pih is not heavy.",
+            "conclusion": "zol is loud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If sib is light, then pom is weak.",
+            "premise2": "pom is not weak.",
+            "conclusion": "sib is light.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If fow is dirty, then heq is smooth.",
+            "premise2": "heq is not smooth.",
+            "conclusion": "fow is dirty.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cor is strong, then sop is sharp.",
+            "premise2": "sop is not sharp.",
+            "conclusion": "cor is strong.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If xed is poor, then ted is narrow.",
+            "premise2": "ted is not narrow.",
+            "conclusion": "xed is poor.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jar is dirty, then buv is strong.",
+            "premise2": "buv is not strong.",
+            "conclusion": "jar is dirty.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If jum is deep, then row is warm.",
+            "premise2": "row is not warm.",
+            "conclusion": "jum is deep.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If cap is heavy, then qoq is deep.",
+            "premise2": "qoq is not deep.",
+            "conclusion": "cap is heavy.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If toy is humble, then bom is rough.",
+            "premise2": "bom is not rough.",
+            "conclusion": "toy is humble.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "If qoq is proud, then xum is stale.",
+            "premise2": "xum is not stale.",
+            "conclusion": "qoq is proud.",
+            "trial_type": "modus_tollens_false"
+        },
+        {
+            "premise1": "moz is bright or zep is cowardly.",
+            "premise2": "moz is not bright.",
+            "conclusion": "zep is cowardly",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "som is heavy or den is rich.",
+            "premise2": "som is not heavy.",
+            "conclusion": "den is rich",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bun is warm or gev is soft.",
+            "premise2": "bun is not warm.",
+            "conclusion": "gev is soft",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "huc is cowardly or keb is loud.",
+            "premise2": "huc is not cowardly.",
+            "conclusion": "keb is loud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "mot is quiet or muc is proud.",
+            "premise2": "mot is not quiet.",
+            "conclusion": "muc is proud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "haf is shallow or tim is poor.",
+            "premise2": "haf is not shallow.",
+            "conclusion": "tim is poor",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cul is dark or nod is deep.",
+            "premise2": "cul is not dark.",
+            "conclusion": "nod is deep",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "kom is warm or weq is cowardly.",
+            "premise2": "kom is not warm.",
+            "conclusion": "weq is cowardly",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cad is shallow or pam is dark.",
+            "premise2": "cad is not shallow.",
+            "conclusion": "pam is dark",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bac is proud or guh is cold.",
+            "premise2": "bac is not proud.",
+            "conclusion": "guh is cold",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "xeb is warm or wef is hard.",
+            "premise2": "xeb is not warm.",
+            "conclusion": "wef is hard",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "jav is proud or raf is cheerful.",
+            "premise2": "jav is not proud.",
+            "conclusion": "raf is cheerful",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "vey is cowardly or fep is smooth.",
+            "premise2": "vey is not cowardly.",
+            "conclusion": "fep is smooth",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "duc is rich or wef is stale.",
+            "premise2": "duc is not rich.",
+            "conclusion": "wef is stale",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "viy is shallow or xuq is light.",
+            "premise2": "viy is not shallow.",
+            "conclusion": "xuq is light",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "xag is deep or yop is fresh.",
+            "premise2": "xag is not deep.",
+            "conclusion": "yop is fresh",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "vib is wide or bag is dull.",
+            "premise2": "vib is not wide.",
+            "conclusion": "bag is dull",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zeh is smooth or fov is narrow.",
+            "premise2": "zeh is not smooth.",
+            "conclusion": "fov is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "lec is sharp or hin is soft.",
+            "premise2": "lec is not sharp.",
+            "conclusion": "hin is soft",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "vog is sharp or zin is hard.",
+            "premise2": "vog is not sharp.",
+            "conclusion": "zin is hard",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "yep is rich or qal is fresh.",
+            "premise2": "yep is not rich.",
+            "conclusion": "qal is fresh",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cik is narrow or qar is quiet.",
+            "premise2": "cik is not narrow.",
+            "conclusion": "qar is quiet",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "lal is strong or dir is narrow.",
+            "premise2": "lal is not strong.",
+            "conclusion": "dir is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "kel is quiet or puf is humble.",
+            "premise2": "kel is not quiet.",
+            "conclusion": "puf is humble",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "juz is bright or dom is wide.",
+            "premise2": "juz is not bright.",
+            "conclusion": "dom is wide",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bah is heavy or neq is sharp.",
+            "premise2": "bah is not heavy.",
+            "conclusion": "neq is sharp",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cuj is dirty or sut is fresh.",
+            "premise2": "cuj is not dirty.",
+            "conclusion": "sut is fresh",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "pab is proud or rih is heavy.",
+            "premise2": "pab is not proud.",
+            "conclusion": "rih is heavy",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zob is brave or juv is poor.",
+            "premise2": "zob is not brave.",
+            "conclusion": "juv is poor",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "her is wide or qoj is warm.",
+            "premise2": "her is not wide.",
+            "conclusion": "qoj is warm",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "hub is rough or mef is wide.",
+            "premise2": "hub is not rough.",
+            "conclusion": "mef is wide",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "hol is cowardly or von is humble.",
+            "premise2": "hol is not cowardly.",
+            "conclusion": "von is humble",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sal is wide or yil is deep.",
+            "premise2": "sal is not wide.",
+            "conclusion": "yil is deep",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "quw is sharp or bow is cowardly.",
+            "premise2": "quw is not sharp.",
+            "conclusion": "bow is cowardly",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "loc is cold or boy is narrow.",
+            "premise2": "loc is not cold.",
+            "conclusion": "boy is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bav is proud or qup is cheerful.",
+            "premise2": "bav is not proud.",
+            "conclusion": "qup is cheerful",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "woz is fresh or hub is dull.",
+            "premise2": "woz is not fresh.",
+            "conclusion": "hub is dull",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "mod is sad or kah is smooth.",
+            "premise2": "mod is not sad.",
+            "conclusion": "kah is smooth",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "tit is humble or gol is dirty.",
+            "premise2": "tit is not humble.",
+            "conclusion": "gol is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "vec is poor or pul is soft.",
+            "premise2": "vec is not poor.",
+            "conclusion": "pul is soft",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "mew is dirty or ged is sharp.",
+            "premise2": "mew is not dirty.",
+            "conclusion": "ged is sharp",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cav is dark or taz is smooth.",
+            "premise2": "cav is not dark.",
+            "conclusion": "taz is smooth",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zoz is cold or gul is shallow.",
+            "premise2": "zoz is not cold.",
+            "conclusion": "gul is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "pet is soft or pan is hard.",
+            "premise2": "pet is not soft.",
+            "conclusion": "pan is hard",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "miz is proud or peb is poor.",
+            "premise2": "miz is not proud.",
+            "conclusion": "peb is poor",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "qed is cowardly or riv is humble.",
+            "premise2": "qed is not cowardly.",
+            "conclusion": "riv is humble",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "qer is narrow or joj is warm.",
+            "premise2": "qer is not narrow.",
+            "conclusion": "joj is warm",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "gon is dirty or pit is light.",
+            "premise2": "gon is not dirty.",
+            "conclusion": "pit is light",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "hog is rough or nev is soft.",
+            "premise2": "hog is not rough.",
+            "conclusion": "nev is soft",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "wut is clean or ned is quiet.",
+            "premise2": "wut is not clean.",
+            "conclusion": "ned is quiet",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "lif is clean or fon is shallow.",
+            "premise2": "lif is not clean.",
+            "conclusion": "fon is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "naj is quiet or zih is proud.",
+            "premise2": "naj is not quiet.",
+            "conclusion": "zih is proud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "kaw is rich or lac is cold.",
+            "premise2": "kaw is not rich.",
+            "conclusion": "lac is cold",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "qov is hard or gec is rough.",
+            "premise2": "qov is not hard.",
+            "conclusion": "gec is rough",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zaq is cold or yam is soft.",
+            "premise2": "zaq is not cold.",
+            "conclusion": "yam is soft",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "jiq is narrow or hut is dirty.",
+            "premise2": "jiq is not narrow.",
+            "conclusion": "hut is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zeq is cold or leh is dull.",
+            "premise2": "zeq is not cold.",
+            "conclusion": "leh is dull",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zup is cowardly or san is shallow.",
+            "premise2": "zup is not cowardly.",
+            "conclusion": "san is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sag is heavy or pev is warm.",
+            "premise2": "sag is not heavy.",
+            "conclusion": "pev is warm",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "gor is hard or fik is clean.",
+            "premise2": "gor is not hard.",
+            "conclusion": "fik is clean",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "gek is humble or yun is dirty.",
+            "premise2": "gek is not humble.",
+            "conclusion": "yun is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "xow is loud or lib is narrow.",
+            "premise2": "xow is not loud.",
+            "conclusion": "lib is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "juy is loud or fit is hard.",
+            "premise2": "juy is not loud.",
+            "conclusion": "fit is hard",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cow is rich or vuz is brave.",
+            "premise2": "cow is not rich.",
+            "conclusion": "vuz is brave",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "nun is rough or kiv is weak.",
+            "premise2": "nun is not rough.",
+            "conclusion": "kiv is weak",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "teb is smooth or dub is hard.",
+            "premise2": "teb is not smooth.",
+            "conclusion": "dub is hard",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cim is heavy or jac is loud.",
+            "premise2": "cim is not heavy.",
+            "conclusion": "jac is loud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "pow is dull or yir is poor.",
+            "premise2": "pow is not dull.",
+            "conclusion": "yir is poor",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "cuk is strong or xat is brave.",
+            "premise2": "cuk is not strong.",
+            "conclusion": "xat is brave",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "ged is narrow or xen is deep.",
+            "premise2": "ged is not narrow.",
+            "conclusion": "xen is deep",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "siw is narrow or ron is shallow.",
+            "premise2": "siw is not narrow.",
+            "conclusion": "ron is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sun is narrow or qiq is strong.",
+            "premise2": "sun is not narrow.",
+            "conclusion": "qiq is strong",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "jom is loud or qog is proud.",
+            "premise2": "jom is not loud.",
+            "conclusion": "qog is proud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "jej is quiet or diw is loud.",
+            "premise2": "jej is not quiet.",
+            "conclusion": "diw is loud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "tav is hard or koh is dark.",
+            "premise2": "tav is not hard.",
+            "conclusion": "koh is dark",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "vad is rough or fug is dull.",
+            "premise2": "vad is not rough.",
+            "conclusion": "fug is dull",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "zip is humble or faq is smooth.",
+            "premise2": "zip is not humble.",
+            "conclusion": "faq is smooth",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "nuw is cheerful or juk is deep.",
+            "premise2": "nuw is not cheerful.",
+            "conclusion": "juk is deep",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "fer is loud or feg is narrow.",
+            "premise2": "fer is not loud.",
+            "conclusion": "feg is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "lih is soft or siy is cold.",
+            "premise2": "lih is not soft.",
+            "conclusion": "siy is cold",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "qac is light or jir is dirty.",
+            "premise2": "qac is not light.",
+            "conclusion": "jir is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "ruf is humble or nav is shallow.",
+            "premise2": "ruf is not humble.",
+            "conclusion": "nav is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "koc is cold or pih is narrow.",
+            "premise2": "koc is not cold.",
+            "conclusion": "pih is narrow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sah is dirty or guz is sad.",
+            "premise2": "sah is not dirty.",
+            "conclusion": "guz is sad",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "dol is poor or sib is weak.",
+            "premise2": "dol is not poor.",
+            "conclusion": "sib is weak",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sag is rough or mim is humble.",
+            "premise2": "sag is not rough.",
+            "conclusion": "mim is humble",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "san is shallow or gob is loud.",
+            "premise2": "san is not shallow.",
+            "conclusion": "gob is loud",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "xed is smooth or rut is brave.",
+            "premise2": "xed is not smooth.",
+            "conclusion": "rut is brave",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "ney is cold or puh is light.",
+            "premise2": "ney is not cold.",
+            "conclusion": "puh is light",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "fev is rich or zeb is dirty.",
+            "premise2": "fev is not rich.",
+            "conclusion": "zeb is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "liz is bright or low is shallow.",
+            "premise2": "liz is not bright.",
+            "conclusion": "low is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "sok is poor or taw is dirty.",
+            "premise2": "sok is not poor.",
+            "conclusion": "taw is dirty",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "jup is narrow or meh is sharp.",
+            "premise2": "jup is not narrow.",
+            "conclusion": "meh is sharp",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "fiq is quiet or gil is poor.",
+            "premise2": "fiq is not quiet.",
+            "conclusion": "gil is poor",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bah is warm or qod is light.",
+            "premise2": "bah is not warm.",
+            "conclusion": "qod is light",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "waj is soft or noy is quiet.",
+            "premise2": "waj is not soft.",
+            "conclusion": "noy is quiet",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "huz is wide or yat is dull.",
+            "premise2": "huz is not wide.",
+            "conclusion": "yat is dull",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "wav is sharp or dac is quiet.",
+            "premise2": "wav is not sharp.",
+            "conclusion": "dac is quiet",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "tew is cold or muz is rough.",
+            "premise2": "tew is not cold.",
+            "conclusion": "muz is rough",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "pub is heavy or yim is shallow.",
+            "premise2": "pub is not heavy.",
+            "conclusion": "yim is shallow",
+            "trial_type": "disjunction_elimination_true"
+        },
+        {
+            "premise1": "bur is narrow or pan is fresh.",
+            "premise2": "bur is not narrow.",
+            "conclusion": "pan is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "fiz is strong or gic is poor.",
+            "premise2": "fiz is not strong.",
+            "conclusion": "gic is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "bok is deep or rut is strong.",
+            "premise2": "bok is not deep.",
+            "conclusion": "rut is not strong",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hut is bright or wab is cold.",
+            "premise2": "hut is not bright.",
+            "conclusion": "wab is not cold",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "goq is soft or yek is weak.",
+            "premise2": "goq is not soft.",
+            "conclusion": "yek is not weak",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "coq is weak or meq is clean.",
+            "premise2": "coq is not weak.",
+            "conclusion": "meq is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zow is light or jup is bright.",
+            "premise2": "zow is not light.",
+            "conclusion": "jup is not bright",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "row is dirty or zaj is sad.",
+            "premise2": "row is not dirty.",
+            "conclusion": "zaj is not sad",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "huj is hard or jaj is deep.",
+            "premise2": "huj is not hard.",
+            "conclusion": "jaj is not deep",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "nim is brave or gez is narrow.",
+            "premise2": "nim is not brave.",
+            "conclusion": "gez is not narrow",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "cof is rich or xoh is heavy.",
+            "premise2": "cof is not rich.",
+            "conclusion": "xoh is not heavy",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "rog is bright or wop is heavy.",
+            "premise2": "rog is not bright.",
+            "conclusion": "wop is not heavy",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "juq is cold or tez is hard.",
+            "premise2": "juq is not cold.",
+            "conclusion": "tez is not hard",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "gem is smooth or bif is loud.",
+            "premise2": "gem is not smooth.",
+            "conclusion": "bif is not loud",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "wol is bright or big is dull.",
+            "premise2": "wol is not bright.",
+            "conclusion": "big is not dull",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "sul is narrow or rak is sharp.",
+            "premise2": "sul is not narrow.",
+            "conclusion": "rak is not sharp",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "nal is dark or tim is wide.",
+            "premise2": "nal is not dark.",
+            "conclusion": "tim is not wide",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "fim is light or jik is sharp.",
+            "premise2": "fim is not light.",
+            "conclusion": "jik is not sharp",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "jof is fresh or wih is poor.",
+            "premise2": "jof is not fresh.",
+            "conclusion": "wih is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "buc is wide or wof is sharp.",
+            "premise2": "buc is not wide.",
+            "conclusion": "wof is not sharp",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "vid is fresh or fur is loud.",
+            "premise2": "vid is not fresh.",
+            "conclusion": "fur is not loud",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "gam is deep or mev is light.",
+            "premise2": "gam is not deep.",
+            "conclusion": "mev is not light",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "wuk is fresh or doj is cowardly.",
+            "premise2": "wuk is not fresh.",
+            "conclusion": "doj is not cowardly",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "lif is smooth or gop is warm.",
+            "premise2": "lif is not smooth.",
+            "conclusion": "gop is not warm",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "sov is proud or num is rough.",
+            "premise2": "sov is not proud.",
+            "conclusion": "num is not rough",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "mar is loud or doz is warm.",
+            "premise2": "mar is not loud.",
+            "conclusion": "doz is not warm",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "fok is deep or mar is weak.",
+            "premise2": "fok is not deep.",
+            "conclusion": "mar is not weak",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xaq is heavy or rup is light.",
+            "premise2": "xaq is not heavy.",
+            "conclusion": "rup is not light",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "haf is deep or wug is fresh.",
+            "premise2": "haf is not deep.",
+            "conclusion": "wug is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "tuk is dirty or reh is loud.",
+            "premise2": "tuk is not dirty.",
+            "conclusion": "reh is not loud",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "big is light or fun is soft.",
+            "premise2": "big is not light.",
+            "conclusion": "fun is not soft",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "wav is deep or vuv is dirty.",
+            "premise2": "wav is not deep.",
+            "conclusion": "vuv is not dirty",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "yaj is dirty or col is heavy.",
+            "premise2": "yaj is not dirty.",
+            "conclusion": "col is not heavy",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xil is bright or dog is soft.",
+            "premise2": "xil is not bright.",
+            "conclusion": "dog is not soft",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "sin is dirty or lob is clean.",
+            "premise2": "sin is not dirty.",
+            "conclusion": "lob is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zep is sharp or piq is weak.",
+            "premise2": "zep is not sharp.",
+            "conclusion": "piq is not weak",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "quy is hard or mob is clean.",
+            "premise2": "quy is not hard.",
+            "conclusion": "mob is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "bog is deep or dec is sharp.",
+            "premise2": "bog is not deep.",
+            "conclusion": "dec is not sharp",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zik is cowardly or xak is clean.",
+            "premise2": "zik is not cowardly.",
+            "conclusion": "xak is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zib is rich or dol is dull.",
+            "premise2": "zib is not rich.",
+            "conclusion": "dol is not dull",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hob is dark or hah is cold.",
+            "premise2": "hob is not dark.",
+            "conclusion": "hah is not cold",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "pak is shallow or kol is stale.",
+            "premise2": "pak is not shallow.",
+            "conclusion": "kol is not stale",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zun is dark or zow is light.",
+            "premise2": "zun is not dark.",
+            "conclusion": "zow is not light",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "gek is bright or fef is cold.",
+            "premise2": "gek is not bright.",
+            "conclusion": "fef is not cold",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xur is strong or soq is clean.",
+            "premise2": "xur is not strong.",
+            "conclusion": "soq is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "veg is deep or yiy is poor.",
+            "premise2": "veg is not deep.",
+            "conclusion": "yiy is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "yuc is light or suz is poor.",
+            "premise2": "yuc is not light.",
+            "conclusion": "suz is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "lum is wide or fiz is narrow.",
+            "premise2": "lum is not wide.",
+            "conclusion": "fiz is not narrow",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "sof is warm or xin is cowardly.",
+            "premise2": "sof is not warm.",
+            "conclusion": "xin is not cowardly",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "naf is sharp or nuf is strong.",
+            "premise2": "naf is not sharp.",
+            "conclusion": "nuf is not strong",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "bam is weak or saw is humble.",
+            "premise2": "bam is not weak.",
+            "conclusion": "saw is not humble",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "kiw is poor or mij is cheerful.",
+            "premise2": "kiw is not poor.",
+            "conclusion": "mij is not cheerful",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "tin is soft or bum is dirty.",
+            "premise2": "tin is not soft.",
+            "conclusion": "bum is not dirty",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "deq is narrow or sip is heavy.",
+            "premise2": "deq is not narrow.",
+            "conclusion": "sip is not heavy",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hut is soft or siv is cold.",
+            "premise2": "hut is not soft.",
+            "conclusion": "siv is not cold",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "huc is stale or lin is dark.",
+            "premise2": "huc is not stale.",
+            "conclusion": "lin is not dark",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "qih is shallow or moc is clean.",
+            "premise2": "qih is not shallow.",
+            "conclusion": "moc is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "lun is cheerful or dib is loud.",
+            "premise2": "lun is not cheerful.",
+            "conclusion": "dib is not loud",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "pum is cheerful or lob is quiet.",
+            "premise2": "pum is not cheerful.",
+            "conclusion": "lob is not quiet",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "kik is cheerful or faq is rich.",
+            "premise2": "kik is not cheerful.",
+            "conclusion": "faq is not rich",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zuc is sad or nab is wide.",
+            "premise2": "zuc is not sad.",
+            "conclusion": "nab is not wide",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "jet is dark or foy is wide.",
+            "premise2": "jet is not dark.",
+            "conclusion": "foy is not wide",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "fec is deep or bir is warm.",
+            "premise2": "fec is not deep.",
+            "conclusion": "bir is not warm",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "noz is heavy or nin is dark.",
+            "premise2": "noz is not heavy.",
+            "conclusion": "nin is not dark",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "vet is clean or vaq is bright.",
+            "premise2": "vet is not clean.",
+            "conclusion": "vaq is not bright",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "vef is clean or web is rough.",
+            "premise2": "vef is not clean.",
+            "conclusion": "web is not rough",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "kuv is loud or wor is cheerful.",
+            "premise2": "kuv is not loud.",
+            "conclusion": "wor is not cheerful",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "lec is narrow or pin is heavy.",
+            "premise2": "lec is not narrow.",
+            "conclusion": "pin is not heavy",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "qac is quiet or fen is weak.",
+            "premise2": "qac is not quiet.",
+            "conclusion": "fen is not weak",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "cuh is smooth or xed is rough.",
+            "premise2": "cuh is not smooth.",
+            "conclusion": "xed is not rough",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "wer is deep or qap is fresh.",
+            "premise2": "wer is not deep.",
+            "conclusion": "qap is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xak is stale or xap is dirty.",
+            "premise2": "xak is not stale.",
+            "conclusion": "xap is not dirty",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "dup is sharp or par is stale.",
+            "premise2": "dup is not sharp.",
+            "conclusion": "par is not stale",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xig is smooth or juh is hard.",
+            "premise2": "xig is not smooth.",
+            "conclusion": "juh is not hard",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "nuz is quiet or wuf is fresh.",
+            "premise2": "nuz is not quiet.",
+            "conclusion": "wuf is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "lol is brave or seq is stale.",
+            "premise2": "lol is not brave.",
+            "conclusion": "seq is not stale",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "fig is cheerful or len is cold.",
+            "premise2": "fig is not cheerful.",
+            "conclusion": "len is not cold",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "pil is dull or per is sharp.",
+            "premise2": "pil is not dull.",
+            "conclusion": "per is not sharp",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hut is light or yoz is strong.",
+            "premise2": "hut is not light.",
+            "conclusion": "yoz is not strong",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "peb is soft or soz is dark.",
+            "premise2": "peb is not soft.",
+            "conclusion": "soz is not dark",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "qij is poor or rak is humble.",
+            "premise2": "qij is not poor.",
+            "conclusion": "rak is not humble",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "tur is shallow or qoc is loud.",
+            "premise2": "tur is not shallow.",
+            "conclusion": "qoc is not loud",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hif is quiet or vut is rich.",
+            "premise2": "hif is not quiet.",
+            "conclusion": "vut is not rich",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "kel is proud or bon is fresh.",
+            "premise2": "kel is not proud.",
+            "conclusion": "bon is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "vem is smooth or xav is narrow.",
+            "premise2": "vem is not smooth.",
+            "conclusion": "xav is not narrow",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "jib is heavy or mur is strong.",
+            "premise2": "jib is not heavy.",
+            "conclusion": "mur is not strong",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "kuq is sharp or giz is smooth.",
+            "premise2": "kuq is not sharp.",
+            "conclusion": "giz is not smooth",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "quv is weak or pog is poor.",
+            "premise2": "quv is not weak.",
+            "conclusion": "pog is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "rim is wide or giv is poor.",
+            "premise2": "rim is not wide.",
+            "conclusion": "giv is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "yet is sad or jev is bright.",
+            "premise2": "yet is not sad.",
+            "conclusion": "jev is not bright",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "rew is shallow or mof is narrow.",
+            "premise2": "rew is not shallow.",
+            "conclusion": "mof is not narrow",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "hej is fresh or meh is dull.",
+            "premise2": "hej is not fresh.",
+            "conclusion": "meh is not dull",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "xuh is wide or cag is deep.",
+            "premise2": "xuh is not wide.",
+            "conclusion": "cag is not deep",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "mec is soft or lup is brave.",
+            "premise2": "mec is not soft.",
+            "conclusion": "lup is not brave",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "liy is dark or vif is weak.",
+            "premise2": "liy is not dark.",
+            "conclusion": "vif is not weak",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "nov is hard or nuk is cowardly.",
+            "premise2": "nov is not hard.",
+            "conclusion": "nuk is not cowardly",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "raz is rough or lup is bright.",
+            "premise2": "raz is not rough.",
+            "conclusion": "lup is not bright",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "beq is dirty or pap is poor.",
+            "premise2": "beq is not dirty.",
+            "conclusion": "pap is not poor",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "waf is dull or yuj is clean.",
+            "premise2": "waf is not dull.",
+            "conclusion": "yuj is not clean",
+            "trial_type": "disjunction_elimination_false"
+        },
+        {
+            "premise1": "zuq is bright or gad is fresh.",
+            "premise2": "zuq is not bright.",
+            "conclusion": "gad is not fresh",
+            "trial_type": "disjunction_elimination_false"
+        }
+    ]
+}

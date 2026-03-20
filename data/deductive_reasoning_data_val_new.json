@@ -1,0 +1,1126 @@
+{
+    "syllogisms": [
+        {
+            "premise1": "All wofs are cowardly.",
+            "premise2": "All cowardly things are rich.",
+            "premise3": "Taz is a wof.",
+            "conclusion": "Taz is cowardly.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All rizs are brave.",
+            "premise2": "All brave things are rough.",
+            "premise3": "Ryl is a riz.",
+            "conclusion": "Ryl is brave.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All vojs are soft.",
+            "premise2": "All soft things are sharp.",
+            "premise3": "Ryl is a voj.",
+            "conclusion": "Ryl is soft.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All qoqs are humble.",
+            "premise2": "All humble things are cowardly.",
+            "premise3": "Vak is a qoq.",
+            "conclusion": "Vak is humble.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All nihs are heavy.",
+            "premise2": "All heavy things are loud.",
+            "premise3": "Luz is a nih.",
+            "conclusion": "Luz is heavy.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All tejs are shallow.",
+            "premise2": "All shallow things are rich.",
+            "premise3": "Jiv is a tej.",
+            "conclusion": "Jiv is shallow.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All cejs are hard.",
+            "premise2": "All hard things are warm.",
+            "premise3": "Nim is a cej.",
+            "conclusion": "Nim is hard.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All huds are cheerful.",
+            "premise2": "All cheerful things are dull.",
+            "premise3": "Vek is a hud.",
+            "conclusion": "Vek is cheerful.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All qews are rich.",
+            "premise2": "All rich things are soft.",
+            "premise3": "Taz is a qew.",
+            "conclusion": "Taz is rich.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All robs are wide.",
+            "premise2": "All wide things are quiet.",
+            "premise3": "Cin is wide.",
+            "conclusion": "Cin is quiet.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All tefs are wide.",
+            "premise2": "All wide things are cheerful.",
+            "premise3": "Vek is not cheerful.",
+            "conclusion": "Vek is wide.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All giys are poor.",
+            "premise2": "All poor things are rich.",
+            "premise3": "Nod is not poor.",
+            "conclusion": "Nod is a giy.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All vazs are wide.",
+            "premise2": "All wide things are heavy.",
+            "premise3": "Fen is not heavy.",
+            "conclusion": "Fen is wide.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All suds are stale.",
+            "premise2": "All stale things are bright.",
+            "premise3": "Sog is not bright.",
+            "conclusion": "Sog is stale.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All kons are wide.",
+            "premise2": "All wide things are bright.",
+            "premise3": "Jax is not bright.",
+            "conclusion": "Jax is wide.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All vids are light.",
+            "premise2": "All light things are clean.",
+            "premise3": "Taz is not light.",
+            "conclusion": "Taz is a vid.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All dims are clean.",
+            "premise2": "All clean things are cold.",
+            "premise3": "Ryl is not clean.",
+            "conclusion": "Ryl is a dim.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All wits are sad.",
+            "premise2": "All sad things are soft.",
+            "premise3": "Lur is not soft.",
+            "conclusion": "Lur is sad.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All cags are brave.",
+            "premise2": "All brave things are loud.",
+            "premise3": "Pal is not brave.",
+            "conclusion": "Pal is a cag.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All qoys are strong.",
+            "premise2": "All strong things are fresh.",
+            "premise3": "Mek is not strong.",
+            "conclusion": "Mek is a qoy.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All tajs are rich.",
+            "premise2": "All rich things are narrow.",
+            "premise3": "Taz is a taj.",
+            "conclusion": "Taz is narrow.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All rocs are sad.",
+            "premise2": "All sad things are humble.",
+            "premise3": "Yor is a roc.",
+            "conclusion": "Yor is humble.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All zaws are fresh.",
+            "premise2": "All fresh things are quiet.",
+            "premise3": "Fex is a zaw.",
+            "conclusion": "Fex is quiet.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All nops are smooth.",
+            "premise2": "All smooth things are poor.",
+            "premise3": "Cin is a nop.",
+            "conclusion": "Cin is poor.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All gars are clean.",
+            "premise2": "All clean things are dark.",
+            "premise3": "Xel is a gar.",
+            "conclusion": "Xel is dark.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All zuts are rough.",
+            "premise2": "All rough things are soft.",
+            "premise3": "Jiv is a zut.",
+            "conclusion": "Jiv is soft.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All qaps are heavy.",
+            "premise2": "All heavy things are strong.",
+            "premise3": "Zol is a qap.",
+            "conclusion": "Zol is strong.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All baws are stale.",
+            "premise2": "All stale things are fresh.",
+            "premise3": "Mav is a baw.",
+            "conclusion": "Mav is fresh.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All wols are stale.",
+            "premise2": "All stale things are cowardly.",
+            "premise3": "Rek is a wol.",
+            "conclusion": "Rek is cowardly.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All feps are fresh.",
+            "premise2": "All fresh things are brave.",
+            "premise3": "Pal is a fep.",
+            "conclusion": "Pal is brave.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All rays are warm.",
+            "premise2": "All warm things are shallow.",
+            "premise3": "Sog is not shallow.",
+            "conclusion": "Sog is a ray.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All vogs are brave.",
+            "premise2": "All brave things are heavy.",
+            "premise3": "Nim is not heavy.",
+            "conclusion": "Nim is a vog.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All haws are shallow.",
+            "premise2": "All shallow things are bright.",
+            "premise3": "Jor is not bright.",
+            "conclusion": "Jor is a haw.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All raks are quiet.",
+            "premise2": "All quiet things are fresh.",
+            "premise3": "Yor is not fresh.",
+            "conclusion": "Yor is a rak.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All gevs are dirty.",
+            "premise2": "All dirty things are cheerful.",
+            "premise3": "Nim is not cheerful.",
+            "conclusion": "Nim is a gev.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All sits are weak.",
+            "premise2": "All weak things are strong.",
+            "premise3": "Yor is not strong.",
+            "conclusion": "Yor is a sit.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All tizs are deep.",
+            "premise2": "All deep things are cowardly.",
+            "premise3": "Yor is not cowardly.",
+            "conclusion": "Yor is a tiz.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All peks are poor.",
+            "premise2": "All poor things are deep.",
+            "premise3": "Vek is not deep.",
+            "conclusion": "Vek is a pek.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All puns are dark.",
+            "premise2": "All dark things are cheerful.",
+            "premise3": "Lur is not cheerful.",
+            "conclusion": "Lur is a pun.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All zens are light.",
+            "premise2": "All light things are wide.",
+            "premise3": "Ryl is not wide.",
+            "conclusion": "Ryl is a zen.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All qils are wide.",
+            "premise2": "All wide things are proud.",
+            "premise3": "Xel is not proud.",
+            "conclusion": "Xel is not wide.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All nofs are weak.",
+            "premise2": "All weak things are shallow.",
+            "premise3": "Lyn is not weak.",
+            "conclusion": "Lyn is not a nof.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All wehs are soft.",
+            "premise2": "All soft things are humble.",
+            "premise3": "Fex is not soft.",
+            "conclusion": "Fex is not a weh.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All pips are proud.",
+            "premise2": "All proud things are sad.",
+            "premise3": "Tev is not sad.",
+            "conclusion": "Tev is not proud.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All pars are weak.",
+            "premise2": "All weak things are bright.",
+            "premise3": "Ryl is not weak.",
+            "conclusion": "Ryl is not a par.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All vers are poor.",
+            "premise2": "All poor things are rough.",
+            "premise3": "Jor is not rough.",
+            "conclusion": "Jor is not poor.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All megs are sharp.",
+            "premise2": "All sharp things are rough.",
+            "premise3": "Wek is not sharp.",
+            "conclusion": "Wek is not a meg.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All wubs are soft.",
+            "premise2": "All soft things are narrow.",
+            "premise3": "Xel is not soft.",
+            "conclusion": "Xel is not a wub.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All mehs are rough.",
+            "premise2": "All rough things are bright.",
+            "premise3": "Zol is not rough.",
+            "conclusion": "Zol is not a meh.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All labs are clean.",
+            "premise2": "All clean things are hard.",
+            "premise3": "Mav is not hard.",
+            "conclusion": "Mav is not clean.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All jeks are poor.",
+            "premise2": "All poor things are cold.",
+            "premise3": "Dex is not poor.",
+            "conclusion": "Dex is not cold.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All gocs are dull.",
+            "premise2": "All dull things are quiet.",
+            "premise3": "Xel is a goc.",
+            "conclusion": "Xel is not dull.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All rits are clean.",
+            "premise2": "All clean things are dirty.",
+            "premise3": "Zim is not clean.",
+            "conclusion": "Zim is not dirty.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All veks are rich.",
+            "premise2": "All rich things are quiet.",
+            "premise3": "Vak is a vek.",
+            "conclusion": "Vak is not rich.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All xols are sad.",
+            "premise2": "All sad things are light.",
+            "premise3": "Fen is a xol.",
+            "conclusion": "Fen is not sad.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All qers are brave.",
+            "premise2": "All brave things are weak.",
+            "premise3": "Tor is not a qer.",
+            "conclusion": "Tor is not brave.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All zads are warm.",
+            "premise2": "All warm things are fresh.",
+            "premise3": "Luz is warm.",
+            "conclusion": "Luz is not fresh.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All wems are rough.",
+            "premise2": "All rough things are proud.",
+            "premise3": "Jax is a wem.",
+            "conclusion": "Jax is not rough.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All yids are wide.",
+            "premise2": "All wide things are humble.",
+            "premise3": "Pal is a yid.",
+            "conclusion": "Pal is not wide.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All muhs are narrow.",
+            "premise2": "All narrow things are proud.",
+            "premise3": "Vek is a muh.",
+            "conclusion": "Vek is not narrow.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All sobs are rough.",
+            "premise2": "All rough things are stale.",
+            "premise3": "Dex is not stale.",
+            "conclusion": "Dex is not a sob.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All febs are wide.",
+            "premise2": "All wide things are loud.",
+            "premise3": "Tev is not loud.",
+            "conclusion": "Tev is not a feb.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All heps are deep.",
+            "premise2": "All deep things are bright.",
+            "premise3": "Yor is not bright.",
+            "conclusion": "Yor is not a hep.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All sucs are strong.",
+            "premise2": "All strong things are cold.",
+            "premise3": "Zim is not cold.",
+            "conclusion": "Zim is not a suc.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All kezs are weak.",
+            "premise2": "All weak things are fresh.",
+            "premise3": "Sog is not fresh.",
+            "conclusion": "Sog is not a kez.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All bazs are stale.",
+            "premise2": "All stale things are hard.",
+            "premise3": "Vak is not hard.",
+            "conclusion": "Vak is not a baz.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All zuys are dirty.",
+            "premise2": "All dirty things are heavy.",
+            "premise3": "Mav is not heavy.",
+            "conclusion": "Mav is not a zuy.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All zams are humble.",
+            "premise2": "All humble things are proud.",
+            "premise3": "Fen is not proud.",
+            "conclusion": "Fen is not a zam.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All coys are stale.",
+            "premise2": "All stale things are brave.",
+            "premise3": "Taz is not brave.",
+            "conclusion": "Taz is not a coy.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All dews are dull.",
+            "premise2": "All dull things are humble.",
+            "premise3": "Taz is not humble.",
+            "conclusion": "Taz is not a dew.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All wafs are cheerful.",
+            "premise2": "All cheerful things are rough.",
+            "premise3": "Nod is not a waf.",
+            "conclusion": "Nod is not rough.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All gels are shallow.",
+            "premise2": "All shallow things are heavy.",
+            "premise3": "Xel is not a gel.",
+            "conclusion": "Xel is not heavy.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All nigs are warm.",
+            "premise2": "All warm things are rich.",
+            "premise3": "Zim is not a nig.",
+            "conclusion": "Zim is not rich.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All tecs are bright.",
+            "premise2": "All bright things are poor.",
+            "premise3": "Yor is not a tec.",
+            "conclusion": "Yor is not poor.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All tuns are sad.",
+            "premise2": "All sad things are stale.",
+            "premise3": "Ryl is a tun.",
+            "conclusion": "Ryl is not stale.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All cajs are dirty.",
+            "premise2": "All dirty things are clean.",
+            "premise3": "Lyn is not a caj.",
+            "conclusion": "Lyn is not clean.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All sins are quiet.",
+            "premise2": "All quiet things are rough.",
+            "premise3": "Jiv is not a sin.",
+            "conclusion": "Jiv is not rough.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All jops are cowardly.",
+            "premise2": "All cowardly things are stale.",
+            "premise3": "Zol is not a jop.",
+            "conclusion": "Zol is not stale.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All bacs are rich.",
+            "premise2": "All rich things are quiet.",
+            "premise3": "Jax is a bac.",
+            "conclusion": "Jax is not quiet.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All mefs are strong.",
+            "premise2": "All strong things are proud.",
+            "premise3": "Nix is not a mef.",
+            "conclusion": "Nix is not proud.",
+            "trial_type": "3_false_negate"
+        }
+    ],
+    "transitive": [
+        {
+            "premise1": "Kor is harder than Cin.",
+            "premise2": "Cin is harder than Vek.",
+            "premise3": "Vek is harder than Bren.",
+            "conclusion": "Kor is harder than Vek.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Kor is richer than Yor.",
+            "premise2": "Yor is richer than Vek.",
+            "premise3": "Vek is richer than Nix.",
+            "conclusion": "Kor is richer than Vek.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Vek is wider than Jax.",
+            "premise2": "Jax is wider than Luz.",
+            "premise3": "Luz is wider than Xel.",
+            "conclusion": "Jax is wider than Xel.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Tev is weaker than Tor.",
+            "premise2": "Tor is weaker than Sog.",
+            "premise3": "Sog is weaker than Ryl.",
+            "conclusion": "Tev is weaker than Sog.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Tev is shallower than Wek.",
+            "premise2": "Wek is shallower than Lyn.",
+            "premise3": "Lyn is shallower than Jor.",
+            "conclusion": "Tev is shallower than Lyn.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Zim is louder than Luz.",
+            "premise2": "Luz is louder than Yor.",
+            "premise3": "Yor is louder than Taz.",
+            "conclusion": "Zim is louder than Yor.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Mav is warmer than Vak.",
+            "premise2": "Vak is warmer than Cin.",
+            "premise3": "Cin is warmer than Yor.",
+            "conclusion": "Vak is warmer than Yor.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Kor is narrower than Xel.",
+            "premise2": "Xel is narrower than Wek.",
+            "premise3": "Wek is narrower than Yor.",
+            "conclusion": "Xel is narrower than Yor.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Mek is louder than Rek.",
+            "premise2": "Rek is louder than Dex.",
+            "premise3": "Dex is louder than Jiv.",
+            "conclusion": "Rek is louder than Jiv.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Jax is prouder than Bim.",
+            "premise2": "Bim is prouder than Rek.",
+            "premise3": "Rek is prouder than Nix.",
+            "conclusion": "Bim is prouder than Nix.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Luz is lighter than Jor.",
+            "premise2": "Jor is lighter than Cin.",
+            "premise3": "Cin is lighter than Yor.",
+            "conclusion": "Cin is lighter than Luz.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Jor is stronger than Nod.",
+            "premise2": "Nod is stronger than Sog.",
+            "premise3": "Sog is stronger than Vak.",
+            "conclusion": "Vak is stronger than Nod.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Nod is weaker than Mek.",
+            "premise2": "Mek is weaker than Tor.",
+            "premise3": "Tor is weaker than Cin.",
+            "conclusion": "Cin is weaker than Mek.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Jiv is deeper than Wek.",
+            "premise2": "Wek is deeper than Yor.",
+            "premise3": "Yor is deeper than Mek.",
+            "conclusion": "Mek is deeper than Wek.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Mek is shallower than Pal.",
+            "premise2": "Pal is shallower than Tev.",
+            "premise3": "Tev is shallower than Zol.",
+            "conclusion": "Tev is shallower than Mek.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Nod is louder than Kor.",
+            "premise2": "Kor is louder than Ryl.",
+            "premise3": "Ryl is louder than Pal.",
+            "conclusion": "Pal is louder than Kor.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Rek is rougher than Nix.",
+            "premise2": "Nix is rougher than Xel.",
+            "premise3": "Xel is rougher than Tor.",
+            "conclusion": "Xel is rougher than Rek.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Jax is brighter than Nim.",
+            "premise2": "Nim is brighter than Fex.",
+            "premise3": "Fex is brighter than Lyn.",
+            "conclusion": "Lyn is brighter than Nim.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Pal is harder than Wek.",
+            "premise2": "Wek is harder than Sog.",
+            "premise3": "Sog is harder than Cin.",
+            "conclusion": "Cin is harder than Wek.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Nix is prouder than Nod.",
+            "premise2": "Nod is prouder than Vak.",
+            "premise3": "Vak is prouder than Zim.",
+            "conclusion": "Vak is prouder than Nix.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Nix is louder than Ryl.",
+            "premise2": "Ryl is louder than Lur.",
+            "premise3": "Lur is louder than Kor.",
+            "conclusion": "Nix is louder than Kor.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Lyn is darker than Cin.",
+            "premise2": "Cin is darker than Fex.",
+            "premise3": "Fex is darker than Nim.",
+            "conclusion": "Lyn is darker than Nim.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Nix is warmer than Jax.",
+            "premise2": "Jax is warmer than Vek.",
+            "premise3": "Vek is warmer than Kor.",
+            "conclusion": "Nix is warmer than Kor.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Fex is softer than Wek.",
+            "premise2": "Wek is softer than Rek.",
+            "premise3": "Rek is softer than Lyn.",
+            "conclusion": "Fex is softer than Lyn.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Jiv is calmer than Mav.",
+            "premise2": "Mav is calmer than Lyn.",
+            "premise3": "Lyn is calmer than Jax.",
+            "conclusion": "Jiv is calmer than Jax.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Bim is prouder than Cin.",
+            "premise2": "Cin is prouder than Luz.",
+            "premise3": "Luz is prouder than Zim.",
+            "conclusion": "Bim is prouder than Zim.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Jor is prouder than Xel.",
+            "premise2": "Xel is prouder than Sog.",
+            "premise3": "Sog is prouder than Vek.",
+            "conclusion": "Jor is prouder than Vek.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Taz is dirtier than Yor.",
+            "premise2": "Yor is dirtier than Rek.",
+            "premise3": "Rek is dirtier than Fen.",
+            "conclusion": "Taz is dirtier than Fen.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Wek is colder than Fen.",
+            "premise2": "Fen is colder than Nim.",
+            "premise3": "Nim is colder than Mav.",
+            "conclusion": "Wek is colder than Mav.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Nod is colder than Nim.",
+            "premise2": "Nim is colder than Taz.",
+            "premise3": "Taz is colder than Tev.",
+            "conclusion": "Nod is colder than Tev.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Kor is humbler than Zim.",
+            "premise2": "Zim is humbler than Nim.",
+            "premise3": "Nim is humbler than Lyn.",
+            "conclusion": "Lyn is humbler than Kor.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Sog is calmer than Nix.",
+            "premise2": "Nix is calmer than Mav.",
+            "premise3": "Mav is calmer than Mek.",
+            "conclusion": "Mek is calmer than Sog.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Pal is happier than Dex.",
+            "premise2": "Dex is happier than Fex.",
+            "premise3": "Fex is happier than Mav.",
+            "conclusion": "Mav is happier than Pal.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Tev is sadder than Nod.",
+            "premise2": "Nod is sadder than Taz.",
+            "premise3": "Taz is sadder than Pal.",
+            "conclusion": "Pal is sadder than Tev.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Nix is lighter than Wek.",
+            "premise2": "Wek is lighter than Vak.",
+            "premise3": "Vak is lighter than Tev.",
+            "conclusion": "Tev is lighter than Nix.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Fen is prouder than Taz.",
+            "premise2": "Taz is prouder than Dex.",
+            "premise3": "Dex is prouder than Tor.",
+            "conclusion": "Tor is prouder than Fen.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Tor is richer than Vek.",
+            "premise2": "Vek is richer than Tev.",
+            "premise3": "Tev is richer than Nod.",
+            "conclusion": "Nod is richer than Tor.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Jax is warmer than Zol.",
+            "premise2": "Zol is warmer than Taz.",
+            "premise3": "Taz is warmer than Mek.",
+            "conclusion": "Mek is warmer than Jax.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Lur is staler than Fex.",
+            "premise2": "Fex is staler than Zol.",
+            "premise3": "Zol is staler than Ryl.",
+            "conclusion": "Ryl is staler than Lur.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Luz is dirtier than Zim.",
+            "premise2": "Zim is dirtier than Jor.",
+            "premise3": "Jor is dirtier than Nod.",
+            "conclusion": "Nod is dirtier than Luz.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Lyn is braver than Vek.",
+            "premise2": "Vek is braver than Mek.",
+            "premise3": "Mek is braver than Nim.",
+            "conclusion": "Mek is not braver than Lyn.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Nix is deeper than Nod.",
+            "premise2": "Nod is deeper than Tev.",
+            "premise3": "Tev is deeper than Rek.",
+            "conclusion": "Tev is not deeper than Nix.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Ryl is harder than Dex.",
+            "premise2": "Dex is harder than Nod.",
+            "premise3": "Nod is harder than Jor.",
+            "conclusion": "Nod is not harder than Ryl.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Bren is harder than Zim.",
+            "premise2": "Zim is harder than Lur.",
+            "premise3": "Lur is harder than Fex.",
+            "conclusion": "Fex is not harder than Zim.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Dex is brighter than Yor.",
+            "premise2": "Yor is brighter than Tor.",
+            "premise3": "Tor is brighter than Nod.",
+            "conclusion": "Nod is not brighter than Yor.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Lyn is smoother than Zol.",
+            "premise2": "Zol is smoother than Lur.",
+            "premise3": "Lur is smoother than Fen.",
+            "conclusion": "Lur is not smoother than Lyn.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Mek is warmer than Cin.",
+            "premise2": "Cin is warmer than Jor.",
+            "premise3": "Jor is warmer than Bim.",
+            "conclusion": "Jor is not warmer than Mek.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Sog is smoother than Nix.",
+            "premise2": "Nix is smoother than Bren.",
+            "premise3": "Bren is smoother than Xel.",
+            "conclusion": "Xel is not smoother than Nix.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Jor is lighter than Fex.",
+            "premise2": "Fex is lighter than Rek.",
+            "premise3": "Rek is lighter than Bim.",
+            "conclusion": "Bim is not lighter than Fex.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Fen is poorer than Lur.",
+            "premise2": "Lur is poorer than Lyn.",
+            "premise3": "Lyn is poorer than Rek.",
+            "conclusion": "Lyn is not poorer than Fen.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Jiv is fresher than Tor.",
+            "premise2": "Tor is fresher than Kor.",
+            "premise3": "Kor is fresher than Zol.",
+            "conclusion": "Tor is not fresher than Zol.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Jax is louder than Nix.",
+            "premise2": "Nix is louder than Vek.",
+            "premise3": "Vek is louder than Lur.",
+            "conclusion": "Jax is not louder than Vek.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Lur is louder than Luz.",
+            "premise2": "Luz is louder than Ryl.",
+            "premise3": "Ryl is louder than Cin.",
+            "conclusion": "Luz is not louder than Cin.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Taz is cleaner than Sog.",
+            "premise2": "Sog is cleaner than Bren.",
+            "premise3": "Bren is cleaner than Vek.",
+            "conclusion": "Sog is not cleaner than Vek.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Rek is lighter than Cin.",
+            "premise2": "Cin is lighter than Tev.",
+            "premise3": "Tev is lighter than Bim.",
+            "conclusion": "Cin is not lighter than Bim.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Jax is darker than Rek.",
+            "premise2": "Rek is darker than Nod.",
+            "premise3": "Nod is darker than Bren.",
+            "conclusion": "Rek is not darker than Bren.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Wek is calmer than Ryl.",
+            "premise2": "Ryl is calmer than Zim.",
+            "premise3": "Zim is calmer than Kor.",
+            "conclusion": "Wek is not calmer than Zim.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Fen is wider than Bim.",
+            "premise2": "Bim is wider than Dex.",
+            "premise3": "Dex is wider than Nim.",
+            "conclusion": "Bim is not wider than Nim.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Luz is warmer than Yor.",
+            "premise2": "Yor is warmer than Mek.",
+            "premise3": "Mek is warmer than Cin.",
+            "conclusion": "Yor is not warmer than Cin.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Dex is duller than Rek.",
+            "premise2": "Rek is duller than Sog.",
+            "premise3": "Sog is duller than Tev.",
+            "conclusion": "Rek is not duller than Tev.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Sog is brighter than Jor.",
+            "premise2": "Jor is brighter than Jax.",
+            "premise3": "Jax is brighter than Vek.",
+            "conclusion": "Vek is not brighter than Sog.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Cin is fresher than Jiv.",
+            "premise2": "Jiv is fresher than Pal.",
+            "premise3": "Pal is fresher than Lur.",
+            "conclusion": "Lur is not fresher than Cin.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Tev is sharper than Sog.",
+            "premise2": "Sog is sharper than Zim.",
+            "premise3": "Zim is sharper than Fen.",
+            "conclusion": "Fen is not sharper than Tev.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Cin is harder than Ryl.",
+            "premise2": "Ryl is harder than Kor.",
+            "premise3": "Kor is harder than Lur.",
+            "conclusion": "Lur is not harder than Cin.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Pal is sharper than Fex.",
+            "premise2": "Fex is sharper than Mek.",
+            "premise3": "Mek is sharper than Wek.",
+            "conclusion": "Wek is not sharper than Pal.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Zol is heavier than Zim.",
+            "premise2": "Zim is heavier than Bren.",
+            "premise3": "Bren is heavier than Wek.",
+            "conclusion": "Wek is not heavier than Zol.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Bren is rougher than Jiv.",
+            "premise2": "Jiv is rougher than Mek.",
+            "premise3": "Mek is rougher than Yor.",
+            "conclusion": "Yor is not rougher than Bren.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Tor is harder than Wek.",
+            "premise2": "Wek is harder than Jor.",
+            "premise3": "Jor is harder than Cin.",
+            "conclusion": "Cin is not harder than Tor.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Mav is colder than Taz.",
+            "premise2": "Taz is colder than Cin.",
+            "premise3": "Cin is colder than Pal.",
+            "conclusion": "Pal is not colder than Mav.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Lyn is prouder than Taz.",
+            "premise2": "Taz is prouder than Jor.",
+            "premise3": "Jor is prouder than Zol.",
+            "conclusion": "Zol is not prouder than Lyn.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Nod is happier than Sog.",
+            "premise2": "Sog is happier than Tor.",
+            "premise3": "Tor is happier than Bren.",
+            "conclusion": "Nod is not happier than Bren.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Ryl is stronger than Lyn.",
+            "premise2": "Lyn is stronger than Mav.",
+            "premise3": "Mav is stronger than Nim.",
+            "conclusion": "Ryl is not stronger than Nim.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Vek is richer than Kor.",
+            "premise2": "Kor is richer than Zol.",
+            "premise3": "Zol is richer than Luz.",
+            "conclusion": "Vek is not richer than Luz.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Yor is deeper than Mav.",
+            "premise2": "Mav is deeper than Mek.",
+            "premise3": "Mek is deeper than Jor.",
+            "conclusion": "Yor is not deeper than Jor.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Bim is braver than Zol.",
+            "premise2": "Zol is braver than Nod.",
+            "premise3": "Nod is braver than Jor.",
+            "conclusion": "Bim is not braver than Jor.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Mek is braver than Wek.",
+            "premise2": "Wek is braver than Mav.",
+            "premise3": "Mav is braver than Jax.",
+            "conclusion": "Mek is not braver than Jax.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Nim is poorer than Mek.",
+            "premise2": "Mek is poorer than Nix.",
+            "premise3": "Nix is poorer than Fex.",
+            "conclusion": "Nim is not poorer than Fex.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Mek is prouder than Pal.",
+            "premise2": "Pal is prouder than Cin.",
+            "premise3": "Cin is prouder than Nix.",
+            "conclusion": "Mek is not prouder than Nix.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Xel is wider than Bim.",
+            "premise2": "Bim is wider than Zim.",
+            "premise3": "Zim is wider than Dex.",
+            "conclusion": "Xel is not wider than Dex.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Bim is harder than Vek.",
+            "premise2": "Vek is harder than Luz.",
+            "premise3": "Luz is harder than Ryl.",
+            "conclusion": "Bim is not harder than Ryl.",
+            "trial_type": "3_false_negate"
+        }
+    ]
+}

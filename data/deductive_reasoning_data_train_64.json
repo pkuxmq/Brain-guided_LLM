@@ -1,0 +1,454 @@
+{
+    "syllogisms": [
+        {
+            "premise1": "All raqs are sturdy.",
+            "premise2": "All sturdy things are fierce.",
+            "premise3": "Eron is a raq.",
+            "conclusion": "Eron is sturdy.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All reks are lazy.",
+            "premise2": "All lazy things are sturdy.",
+            "premise3": "Fira is lazy.",
+            "conclusion": "Fira is sturdy.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All pets are clumsy.",
+            "premise2": "All clumsy things are modern.",
+            "premise3": "Fira is not clumsy.",
+            "conclusion": "Fira is a pet.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All rebs are foolish.",
+            "premise2": "All foolish things are graceful.",
+            "premise3": "Gor is not graceful.",
+            "conclusion": "Gor is foolish.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All hals are clumsy.",
+            "premise2": "All clumsy things are mysterious.",
+            "premise3": "Cyn is a hal.",
+            "conclusion": "Cyn is mysterious.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All bibs are curious.",
+            "premise2": "All curious things are mysterious.",
+            "premise3": "Glim is a bib.",
+            "conclusion": "Glim is mysterious.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All wajs are mysterious.",
+            "premise2": "All mysterious things are noisy.",
+            "premise3": "Arix is not noisy.",
+            "conclusion": "Arix is a waj.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All keps are selfish.",
+            "premise2": "All selfish things are awkward.",
+            "premise3": "Dov is not awkward.",
+            "conclusion": "Dov is a kep.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All mots are sturdy.",
+            "premise2": "All sturdy things are awkward.",
+            "premise3": "Kora is not sturdy.",
+            "conclusion": "Kora is not a mot.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All nacs are elegant.",
+            "premise2": "All elegant things are graceful.",
+            "premise3": "Cyn is not elegant.",
+            "conclusion": "Cyn is not a nac.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All bigs are swift.",
+            "premise2": "All swift things are elegant.",
+            "premise3": "Glim is not swift.",
+            "conclusion": "Glim is not elegant.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All nivs are swift.",
+            "premise2": "All swift things are noisy.",
+            "premise3": "Cyn is not swift.",
+            "conclusion": "Cyn is not noisy.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All kims are silent.",
+            "premise2": "All silent things are fragile.",
+            "premise3": "Aro is not fragile.",
+            "conclusion": "Aro is not a kim.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All wuhs are gentle.",
+            "premise2": "All gentle things are awkward.",
+            "premise3": "Dren is not awkward.",
+            "conclusion": "Dren is not a wuh.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All yoqs are noisy.",
+            "premise2": "All noisy things are clever.",
+            "premise3": "Aro is not a yoq.",
+            "conclusion": "Aro is not clever.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All cajs are swift.",
+            "premise2": "All swift things are gentle.",
+            "premise3": "Arix is a caj.",
+            "conclusion": "Arix is not gentle.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All sohs are awkward.",
+            "premise2": "All awkward things are lazy.",
+            "premise3": "Ira is awkward.",
+            "conclusion": "Ira is lazy.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All luds are sturdy.",
+            "premise2": "All sturdy things are foolish.",
+            "premise3": "Glim is sturdy.",
+            "conclusion": "Glim is foolish.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "All hevs are graceful.",
+            "premise2": "All graceful things are clever.",
+            "premise3": "Haro is not clever.",
+            "conclusion": "Haro is graceful.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All jers are silent.",
+            "premise2": "All silent things are ancient.",
+            "premise3": "Kyn is not ancient.",
+            "conclusion": "Kyn is silent.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "All daqs are clever.",
+            "premise2": "All clever things are foolish.",
+            "premise3": "Gor is a daq.",
+            "conclusion": "Gor is foolish.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All siqs are foolish.",
+            "premise2": "All foolish things are clever.",
+            "premise3": "Dren is a siq.",
+            "conclusion": "Dren is clever.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "All sats are mysterious.",
+            "premise2": "All mysterious things are graceful.",
+            "premise3": "Kyn is not graceful.",
+            "conclusion": "Kyn is a sat.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All jeds are generous.",
+            "premise2": "All generous things are modern.",
+            "premise3": "Bel is not modern.",
+            "conclusion": "Bel is a jed.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "All lebs are modern.",
+            "premise2": "All modern things are lazy.",
+            "premise3": "Eron is not lazy.",
+            "conclusion": "Eron is not modern.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All vevs are mysterious.",
+            "premise2": "All mysterious things are selfish.",
+            "premise3": "Hix is not mysterious.",
+            "conclusion": "Hix is not a vev.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "All tops are lazy.",
+            "premise2": "All lazy things are elegant.",
+            "premise3": "Bel is a top.",
+            "conclusion": "Bel is not lazy.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All rans are curious.",
+            "premise2": "All curious things are lazy.",
+            "premise3": "Gor is not a ran.",
+            "conclusion": "Gor is not curious.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "All rubs are awkward.",
+            "premise2": "All awkward things are elegant.",
+            "premise3": "Belo is not elegant.",
+            "conclusion": "Belo is not a rub.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All zaqs are graceful.",
+            "premise2": "All graceful things are swift.",
+            "premise3": "Fyn is not swift.",
+            "conclusion": "Fyn is not a zaq.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "All labs are graceful.",
+            "premise2": "All graceful things are fragile.",
+            "premise3": "Fira is not a lab.",
+            "conclusion": "Fira is not fragile.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "All pocs are clumsy.",
+            "premise2": "All clumsy things are noisy.",
+            "premise3": "Dren is a poc.",
+            "conclusion": "Dren is not noisy.",
+            "trial_type": "3_false_negate"
+        }
+    ],
+    "transitive": [
+        {
+            "premise1": "Dov is riskier than Cyn.",
+            "premise2": "Cyn is riskier than Eli.",
+            "premise3": "Eli is riskier than Ira.",
+            "conclusion": "Cyn is riskier than Ira.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Arix is fairer than Dov.",
+            "premise2": "Dov is fairer than Gor.",
+            "premise3": "Gor is fairer than Bel.",
+            "conclusion": "Arix is fairer than Gor.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Iven is earlier than Fyn.",
+            "premise2": "Fyn is earlier than Cyn.",
+            "premise3": "Cyn is earlier than Fira.",
+            "conclusion": "Cyn is earlier than Iven.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Gor is luckier than Ira.",
+            "premise2": "Ira is luckier than Aro.",
+            "premise3": "Aro is luckier than Haro.",
+            "conclusion": "Aro is luckier than Gor.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Kora is riskier than Glim.",
+            "premise2": "Glim is riskier than Iven.",
+            "premise3": "Iven is riskier than Eron.",
+            "conclusion": "Kora is riskier than Eron.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Fira is luckier than Fyn.",
+            "premise2": "Fyn is luckier than Ira.",
+            "premise3": "Ira is luckier than Glim.",
+            "conclusion": "Fira is luckier than Glim.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Aro is rarer than Bel.",
+            "premise2": "Bel is rarer than Eron.",
+            "premise3": "Eron is rarer than Iven.",
+            "conclusion": "Iven is rarer than Aro.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Cyn is later than Fira.",
+            "premise2": "Fira is later than Ira.",
+            "premise3": "Ira is later than Gor.",
+            "conclusion": "Gor is later than Cyn.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Dren is easier than Dov.",
+            "premise2": "Dov is easier than Kyn.",
+            "premise3": "Kyn is easier than Gor.",
+            "conclusion": "Kyn is not easier than Dren.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Arix is luckier than Hix.",
+            "premise2": "Hix is luckier than Aro.",
+            "premise3": "Aro is luckier than Iven.",
+            "conclusion": "Iven is not luckier than Hix.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Kora is nearer than Eli.",
+            "premise2": "Eli is nearer than Bel.",
+            "premise3": "Bel is nearer than Fira.",
+            "conclusion": "Eli is not nearer than Fira.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Kora is riskier than Eli.",
+            "premise2": "Eli is riskier than Cavo.",
+            "premise3": "Cavo is riskier than Dren.",
+            "conclusion": "Kora is not riskier than Cavo.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Hix is further than Arix.",
+            "premise2": "Arix is further than Dov.",
+            "premise3": "Dov is further than Ira.",
+            "conclusion": "Ira is not further than Hix.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Cavo is costlier than Arix.",
+            "premise2": "Arix is costlier than Fira.",
+            "premise3": "Fira is costlier than Dren.",
+            "conclusion": "Dren is not costlier than Cavo.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Gor is further than Fyn.",
+            "premise2": "Fyn is further than Eli.",
+            "premise3": "Eli is further than Kyn.",
+            "conclusion": "Gor is not further than Kyn.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Kyn is rarer than Dov.",
+            "premise2": "Dov is rarer than Ira.",
+            "premise3": "Ira is rarer than Eli.",
+            "conclusion": "Kyn is not rarer than Eli.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Haro is looser than Eli.",
+            "premise2": "Eli is looser than Dov.",
+            "premise3": "Dov is looser than Belo.",
+            "conclusion": "Eli is looser than Belo.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Iven is safer than Belo.",
+            "premise2": "Belo is safer than Arix.",
+            "premise3": "Arix is safer than Hix.",
+            "conclusion": "Iven is safer than Arix.",
+            "trial_type": "2_true_affirm"
+        },
+        {
+            "premise1": "Dren is fairer than Haro.",
+            "premise2": "Haro is fairer than Eron.",
+            "premise3": "Eron is fairer than Iven.",
+            "conclusion": "Iven is fairer than Haro.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Belo is further than Iven.",
+            "premise2": "Iven is further than Bel.",
+            "premise3": "Bel is further than Cavo.",
+            "conclusion": "Bel is further than Belo.",
+            "trial_type": "2_false_affirm"
+        },
+        {
+            "premise1": "Kora is busier than Eli.",
+            "premise2": "Eli is busier than Arix.",
+            "premise3": "Arix is busier than Glim.",
+            "conclusion": "Kora is busier than Glim.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Bel is riskier than Iven.",
+            "premise2": "Iven is riskier than Belo.",
+            "premise3": "Belo is riskier than Cavo.",
+            "conclusion": "Bel is riskier than Cavo.",
+            "trial_type": "3_true_affirm"
+        },
+        {
+            "premise1": "Gor is earlier than Iven.",
+            "premise2": "Iven is earlier than Hix.",
+            "premise3": "Hix is earlier than Belo.",
+            "conclusion": "Belo is earlier than Gor.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Fira is wiser than Glim.",
+            "premise2": "Glim is wiser than Bel.",
+            "premise3": "Bel is wiser than Arix.",
+            "conclusion": "Arix is wiser than Fira.",
+            "trial_type": "3_false_affirm"
+        },
+        {
+            "premise1": "Fyn is wiser than Hix.",
+            "premise2": "Hix is wiser than Kyn.",
+            "premise3": "Kyn is wiser than Kora.",
+            "conclusion": "Kyn is not wiser than Fyn.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Dren is luckier than Hix.",
+            "premise2": "Hix is luckier than Haro.",
+            "premise3": "Haro is luckier than Iven.",
+            "conclusion": "Iven is not luckier than Hix.",
+            "trial_type": "2_true_negate"
+        },
+        {
+            "premise1": "Ira is earlier than Iven.",
+            "premise2": "Iven is earlier than Gor.",
+            "premise3": "Gor is earlier than Cavo.",
+            "conclusion": "Iven is not earlier than Cavo.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Belo is earlier than Eli.",
+            "premise2": "Eli is earlier than Arix.",
+            "premise3": "Arix is earlier than Kora.",
+            "conclusion": "Eli is not earlier than Kora.",
+            "trial_type": "2_false_negate"
+        },
+        {
+            "premise1": "Kora is cleverer than Glim.",
+            "premise2": "Glim is cleverer than Kyn.",
+            "premise3": "Kyn is cleverer than Fyn.",
+            "conclusion": "Fyn is not cleverer than Kora.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Kora is nearer than Arix.",
+            "premise2": "Arix is nearer than Dren.",
+            "premise3": "Dren is nearer than Kyn.",
+            "conclusion": "Kyn is not nearer than Kora.",
+            "trial_type": "3_true_negate"
+        },
+        {
+            "premise1": "Dov is looser than Kora.",
+            "premise2": "Kora is looser than Arix.",
+            "premise3": "Arix is looser than Gor.",
+            "conclusion": "Dov is not looser than Gor.",
+            "trial_type": "3_false_negate"
+        },
+        {
+            "premise1": "Arix is nearer than Hix.",
+            "premise2": "Hix is nearer than Fira.",
+            "premise3": "Fira is nearer than Fyn.",
+            "conclusion": "Arix is not nearer than Fyn.",
+            "trial_type": "3_false_negate"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+# most parameters are used to load intervention results on questions in the fMRI dataset
+CUDA_VISIBLE_DEVICES='0' python hcp_make_intervention_generaldir.py -device cuda -iteration 50 -lr 0.1 -iter_interval 5 -model_type qwen7b -model_path Qwen/Qwen2-7B-Instruct -loss_type 'cosine' -proj_alpha 3.0 -use_ridgecv -dir_scale_min 0. -dir_scale_max 10.0 -dir_scale_itv 0.5 -normalize_dir;
+CUDA_VISIBLE_DEVICES='0' python hcp_make_intervention_generaldir.py -device cuda -iteration 50 -lr 0.1 -iter_interval 5 -model_type phi4-mini -model_path microsoft/Phi-4-mini-instruct -loss_type 'cosine' -proj_alpha 5.0 -use_ridgecv -dir_scale_min 0. -dir_scale_max 10.0 -dir_scale_itv 0.5 -normalize_dir;
+CUDA_VISIBLE_DEVICES='0' python hcp_make_intervention_generaldir.py -device cuda -iteration 50 -lr 0.1 -iter_interval 5 -model_type gemma2_9b -model_path google/gemma-2-9b-it -loss_type 'cosine' -proj_alpha 3.0 -use_ridgecv -dir_scale_min 0. -dir_scale_max 10.0 -dir_scale_itv 0.5 -normalize_dir;
+
+# use -random for random directions, can use -manual_seed to specify seed for randomness

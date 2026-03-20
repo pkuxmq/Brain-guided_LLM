@@ -1,0 +1,14 @@
+
+# most parameters are used to load intervention results on questions in the fMRI dataset
+CUDA_VISIBLE_DEVICES='0' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type qwen1-5b -model_path /data2/huggingface/Qwen2-1.5B-Instruct/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 1. -dir_scale_itv 0.1;
+#CUDA_VISIBLE_DEVICES='0,1' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type qwen7b -model_path /data2/huggingface/Qwen2-7B-Instruct/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 0.2 -dir_scale_itv 0.02;
+#CUDA_VISIBLE_DEVICES='0,1' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type mistral -model_path /data2/huggingface/Mistral-7B-Instruct-v0.2/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 0.2 -dir_scale_itv 0.02;
+CUDA_VISIBLE_DEVICES='0,1' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type llama2 -model_path /data2/huggingface/Llama-2-7b-chat-hf/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 1. -dir_scale_itv 0.1;
+CUDA_VISIBLE_DEVICES='0,1' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type llama3 -model_path /data2/huggingface/Meta-Llama-3-8B-Instruct/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 0.2 -dir_scale_itv 0.02;
+CUDA_VISIBLE_DEVICES='0,1' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type phi4-mini -model_path /data2/huggingface/Phi-4-mini-instruct/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 1. -dir_scale_itv 0.1;
+
+# deepseek
+CUDA_VISIBLE_DEVICES='0' python make_intervention_generaldir.py -device cuda -iteration 50 -lr 0.1 -iter_interval 5 -model_type deepseekqwen1-5b -model_path /data2/huggingface/DeepSeek-R1-Distill-Qwen-1.5B/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 5. -use_ridgecv -dir_scale_min 0. -dir_scale_max 5. -dir_scale_itv 0.5 -select_nearest;
+
+# use -random for random directions, can use -manual_seed to specify seed for randomness
+CUDA_VISIBLE_DEVICES='0' python make_intervention_generaldir.py -device cuda -iteration 200 -lr 0.1 -iter_interval 5 -model_type qwen1-5b -model_path /data2/huggingface/Qwen2-1.5B-Instruct/ -loss_type 'cosine' -analyze_type deductive_reasoning -proj_alpha 10. -use_ridgecv -dir_scale_min 0. -dir_scale_max 5. -dir_scale_itv 0.5 -random;
