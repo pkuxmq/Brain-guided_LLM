@@ -1,6 +1,6 @@
 # Brain-guided language models for robust reasoning
 
-This is the code implementation of the submitted paper: "Beyond representational alignment with brain-guided language models for robust reasoning".
+This repo is the official implementation of ["Beyond representational alignment with brain-guided language models for robust reasoning"](https://www.nature.com/articles/s42256-026-01278-w) (Nature Machine Intelligence, 2026).
 
 ---
 
@@ -585,3 +585,6 @@ python hcp_finetune_model.py \
 ```
 
 See `hcp_run_*.sh` scripts for complete commands for all models.
+
+## Contact
+If you have any questions, please contact <mingqing_xiao@pku.edu.cn>.
