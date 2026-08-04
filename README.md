@@ -1,6 +1,6 @@
 # Brain-guided language models for robust reasoning
 
-This repo is the official implementation of ["Beyond representational alignment with brain-guided language models for robust reasoning"](https://www.nature.com/articles/s42256-026-01278-w) (Nature Machine Intelligence, 2026).
+This repo is the official implementation of "[Beyond representational alignment with brain-guided language models for robust reasoning](https://www.nature.com/articles/s42256-026-01278-w)" (Nature Machine Intelligence, 2026).
 
 ---
 
